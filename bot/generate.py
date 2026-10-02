@@ -19,6 +19,7 @@ import os
 import random
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -85,10 +86,17 @@ def fetch_genre(genre):
         params["affiliateId"] = os.environ["RAKUTEN_AFFILIATE_ID"]
     req = urllib.request.Request(
         API_URL + "?" + urllib.parse.urlencode(params),
-        headers={"User-Agent": "ranking-bot/1.0", "Referer": (SITE_URL or "https://github.com") + "/"},
+        headers={
+            "User-Agent": "ranking-bot/1.0",
+            "Referer": (SITE_URL or "https://github.com") + "/",
+            "Origin": urllib.parse.urlsplit(SITE_URL or "https://github.com")._replace(path="").geturl(),
+        },
     )
-    with urllib.request.urlopen(req, timeout=30) as res:
-        body = json.load(res)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as res:
+            body = json.load(res)
+    except urllib.error.HTTPError as err:
+        raise RuntimeError(f"HTTP {err.code}: {err.read()[:300].decode('utf-8', 'replace')}") from None
     return normalize(body.get("Items", []))
 
 
@@ -120,6 +128,8 @@ def cmd_fetch(sample=False, day=None):
         except Exception as e:  # 1ジャンルの失敗で全体を止めない
             print(f"[warn] {g['slug']}: {e}", file=sys.stderr)
             failed += 1
+            if not sample:
+                time.sleep(1.2)
             continue
         (out_dir / f"{g['slug']}.json").write_text(
             json.dumps({"genre": g, "date": day.isoformat(), "items": items}, ensure_ascii=False, indent=1),
