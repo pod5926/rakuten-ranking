@@ -1,0 +1,10 @@
+[
+  {"slug": "all",     "id": 0,      "name": "総合"},
+  {"slug": "food",    "id": 100227, "name": "食品"},
+  {"slug": "sweets",  "id": 551167, "name": "スイーツ・お菓子"},
+  {"slug": "kaden",   "id": 562637, "name": "家電"},
+  {"slug": "pc",      "id": 100026, "name": "パソコン・周辺機器"},
+  {"slug": "beauty",  "id": 100939, "name": "美容・コスメ・香水"},
+  {"slug": "daily",   "id": 215783, "name": "日用品雑貨・文房具"},
+  {"slug": "ladies",  "id": 100371, "name": "レディースファッション"}
+]

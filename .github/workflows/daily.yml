@@ -1,0 +1,51 @@
+name: daily-update
+
+on:
+  schedule:
+    - cron: "30 21 * * *"   # 毎朝 6:30 (日本時間)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
+      RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
+      RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+      SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch ranking
+        run: |
+          if [ -n "$RAKUTEN_APP_ID" ]; then python bot/generate.py fetch; else python bot/generate.py fetch --sample; fi
+      - name: Commit data
+        if: env.RAKUTEN_APP_ID != ''
+        run: |
+          git config user.name "ranking-bot"
+          git config user.email "ranking-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "data: $(TZ=Asia/Tokyo date +%F)"
+          git push
+      - name: Build site
+        run: python bot/generate.py build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
