@@ -10,6 +10,7 @@
   RAKUTEN_ACCESS_KEY   同アクセスキー
   RAKUTEN_AFFILIATE_ID 楽天アフィリエイトID（任意。あると報酬リンクになる）
   SITE_URL             公開URL（例: https://user.github.io/repo）
+  GA_ID                Googleアナリティクスの測定ID（任意。例: G-XXXXXXXXXX）
 """
 
 import datetime as dt
@@ -36,6 +37,7 @@ API_URL = os.environ.get(
 )
 SITE_NAME = os.environ.get("SITE_NAME", "楽天 売れ筋ウォッチ")
 SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
+GA_ID = os.environ.get("GA_ID", "").strip()
 TOP_N = 30
 
 
@@ -122,13 +124,13 @@ def cmd_fetch(sample=False, day=None):
     day = day or today()
     out_dir = DATA / day.isoformat()
     out_dir.mkdir(parents=True, exist_ok=True)
-    failed = 0
+    failed = []
     for g in GENRES:
         try:
             items = sample_genre(g, day) if sample else fetch_genre(g)
         except Exception as e:  # 1ジャンルの失敗で全体を止めない
             print(f"[warn] {g['slug']}: {e}", file=sys.stderr)
-            failed += 1
+            failed.append(g["slug"])
             if not sample:
                 time.sleep(1.2)
             continue
@@ -139,7 +141,10 @@ def cmd_fetch(sample=False, day=None):
         print(f"saved {g['slug']} ({len(items)} items)")
         if not sample:
             time.sleep(1.2)  # API の秒間リクエスト制限対策
-    if failed == len(GENRES):
+    if failed and os.environ.get("GITHUB_OUTPUT"):  # 一部失敗をワークフローの通知に渡す
+        with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
+            f.write(f"failed={','.join(failed)}\n")
+    if len(failed) == len(GENRES):
         sys.exit("all genres failed")
 
 
@@ -209,6 +214,10 @@ def jp_date(day):
 def page(title, body, rel, desc="", canonical=""):
     nav = " ".join(f'<a href="{rel}g/{g["slug"]}/">{e(g["name"])}</a>' for g in GENRES)
     canon = f'<link rel="canonical" href="{SITE_URL}/{canonical}">' if SITE_URL else ""
+    if GA_ID:  # アクセス解析（外部リンクのクリックもGA4の拡張計測で記録される）
+        canon += (f'<script async src="https://www.googletagmanager.com/gtag/js?id={e(GA_ID)}"></script>'
+                  f"<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}"
+                  f"gtag('js',new Date());gtag('config','{e(GA_ID)}');</script>")
     return f"""<!doctype html><html lang="ja"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title><meta name="description" content="{e(desc)}">{canon}
@@ -314,6 +323,9 @@ def cmd_build():
 <p>楽天ウェブサービスのAPIから楽天市場のランキングを毎朝自動で取得し、前日との比較を加えて掲載しています。</p>
 <p>商品リンクは楽天アフィリエイトのリンクです。リンク先で購入されると、当サイトに紹介料が支払われることがあります。購入者の支払額は変わりません。</p>
 <p>掲載情報は取得時点のものです。最新の価格・在庫・送料は楽天市場の商品ページでご確認ください。</p>"""
+    if GA_ID:
+        about += """<p>当サイトはアクセス解析にGoogleアナリティクスを使用しています。データの収集にCookieを使用しますが、個人を特定する情報は含みません。
+詳しくは<a href="https://policies.google.com/technologies/partner-sites?hl=ja" target="_blank" rel="noopener">Googleのポリシー</a>をご覧ください。</p>"""
     write(OUT / "about.html", page(f"このサイトについて｜{SITE_NAME}", about, "", "", "about.html"))
     urls.append("about.html")
 

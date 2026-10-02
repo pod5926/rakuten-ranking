@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
   pages: write
   id-token: write
 
@@ -24,6 +25,7 @@ jobs:
       RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
       RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
       RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+      GA_ID: ${{ vars.GA_ID }}
       SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
     steps:
       - uses: actions/checkout@v4
@@ -31,6 +33,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Fetch ranking
+        id: fetch
         run: |
           if [ -n "$RAKUTEN_APP_ID" ]; then python bot/generate.py fetch; else python bot/generate.py fetch --sample; fi
       - name: Commit data
@@ -49,3 +52,27 @@ jobs:
           path: _site
       - id: deploy
         uses: actions/deploy-pages@v4
+
+      # ---- 稼働監視: 失敗したらIssueを立てて通知、成功したら自動で閉じる ----
+      - name: Notify failure
+        if: failure() || steps.fetch.outputs.failed != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FAILED: ${{ steps.fetch.outputs.failed }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create bot-alert --color B60205 --description "Botの自動更新エラー" --force
+          if [ "${{ job.status }}" = "failure" ]; then msg="自動更新が失敗しました。サイトは更新されていません。"; else msg="一部ジャンルの取得に失敗しました: ${FAILED}"; fi
+          body="$(TZ=Asia/Tokyo date '+%F %H:%M') ${msg}
+          ログ: ${RUN_URL}"
+          num=$(gh issue list --label bot-alert --state open --json number --jq '.[0].number')
+          if [ -n "$num" ]; then gh issue comment "$num" --body "$body"
+          else gh issue create --title "Bot停止アラート" --label bot-alert --body "$body"; fi
+      - name: Close alert on recovery
+        if: success() && steps.fetch.outputs.failed == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --label bot-alert --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment "$(TZ=Asia/Tokyo date '+%F %H:%M') 正常に更新され、復旧しました。"
+          done

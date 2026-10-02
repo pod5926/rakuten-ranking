@@ -23,3 +23,7 @@ Secrets 未登録の間はサンプルデータでページを生成します（
 ```
 python bot/generate.py fetch --sample && python bot/generate.py build
 ```
+
+## 稼働監視とアクセス解析
+- 自動更新が失敗した日（一部ジャンルだけの失敗も含む）は、`bot-alert` ラベルのIssue「Bot停止アラート」が自動で立ちます。GitHubの通知（メール・アプリ）で届きます。次に成功した時点で自動で閉じます。
+- Settings → Secrets and variables → Actions → Variables に `GA_ID`（Googleアナリティクスの測定ID `G-…`）を登録すると、全ページに計測タグが入ります。楽天へのリンククリックはGA4の「離脱クリック」で数えられます。
