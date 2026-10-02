@@ -17,6 +17,7 @@ import html
 import json
 import os
 import random
+import shutil
 import sys
 import time
 import urllib.error
@@ -267,6 +268,9 @@ def cmd_build():
     if not days:
         sys.exit("no data; run fetch first")
     OUT.mkdir(exist_ok=True)
+    static = ROOT / "static"  # Search Console の確認ファイルなど、そのまま公開するファイル
+    if static.exists():
+        shutil.copytree(static, OUT, dirs_exist_ok=True)
     urls = [""]
     latest = days[-1]
     highlights = []
