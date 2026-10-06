@@ -1,0 +1,340 @@
+{
+ "genre": {
+  "slug": "sweets",
+  "id": 551167,
+  "name": "スイーツ・お菓子"
+ },
+ "date": "2026-10-06",
+ "items": [
+  {
+   "rank": 1,
+   "code": "mochikichi:10001625",
+   "name": "【予約商品】福岡くん。×YOASOBIコラボ缶セット【国産米100％ 6種28袋 缶】【楽天マラソン期間中エントリーでポイント5倍】",
+   "price": 8640,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q93u9.ej4ef04f.g00q93u9.ej4eg625/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmochikichi%2F73036%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/mochikichi/cabinet/shohin_gazo3/imgrc0141738437.jpg?_ex=200x200",
+   "shop": "おせんべい・おかきの老舗　もち吉",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 2,
+   "code": "mochikichi:10001624",
+   "name": "【予約商品】福岡くん。×YOASOBIコラボ缶（ピンク）【国産米100％ 6種28袋 缶】【楽天マラソン期間中エントリーでポイント5倍】",
+   "price": 4980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q93u9.ej4ef04f.g00q93u9.ej4eg625/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmochikichi%2F73034%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/mochikichi/cabinet/shohin_gazo3/imgrc0141738436.jpg?_ex=200x200",
+   "shop": "おせんべい・おかきの老舗　もち吉",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 3,
+   "code": "imokuniya:10000012",
+   "name": "【20％OFFで2990円⇒2392円 10/9 1:59まで】 芋國屋 干し芋 訳あり 1kg 国産 無添加 紅はるか 干しいも 切り落とし ダイエット おやつ お菓子 和菓子 さつまいも 送料無料 ギフト スイーツ 茨城県産 N1",
+   "price": 2392,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tzq19.ej4efdca.g00tzq19.ej4eg606/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimokuniya%2F10000012%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/imokuniya/cabinet/08486723/tb3/1004_jtb_n1.jpg?_ex=200x200",
+   "shop": "芋國屋",
+   "review_avg": 4.57,
+   "review_count": 37117
+  },
+  {
+   "rank": 4,
+   "code": "lindt-chocolate:10002111",
+   "name": "≪クーポンご利用で50％OFF≫リンツ クリアランスバッグ 500g",
+   "price": 7200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjg9.ej4efe06.g00sjjg9.ej4egb39/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Fclearance_l%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/9701731_2609_1r.jpg?_ex=200x200",
+   "shop": "リンツ チョコレート 楽天市場店",
+   "review_avg": 4.51,
+   "review_count": 974
+  },
+  {
+   "rank": 5,
+   "code": "bokunotamatebakoyafish:10002852",
+   "name": "【期間限定 クーポンで 50%OFF】 割れチョコ 訳あり チョコレート 「是非食べ比べて見てください★★★★ 絶対後悔させない!27種類より2個 選べる割れチョコ (200g×2袋※ハイカカオ170g)」 送料無料 [ チョコ スイーツ 大浜スイーツアカデミー ]",
+   "price": 3998,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00svnu9.ej4ef10d.g00svnu9.ej4eg7c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fhonki-mode455-2%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoyafish/cabinet/event/0919a/20261004ware.jpg?_ex=200x200",
+   "shop": "大浜スイーツアカデミー",
+   "review_avg": 4.46,
+   "review_count": 3829
+  },
+  {
+   "rank": 6,
+   "code": "lindt-chocolate:10002129",
+   "name": "≪クーポンご利用で50％OFF≫リンツ クリアランスバッグ 500g",
+   "price": 7200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjg9.ej4efe06.g00sjjg9.ej4egb39/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Fclearance_set%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/imgrc0116927416.jpg?_ex=200x200",
+   "shop": "リンツ チョコレート 楽天市場店",
+   "review_avg": 4.55,
+   "review_count": 140
+  },
+  {
+   "rank": 7,
+   "code": "bokunotamatebakoyafish:10002990",
+   "name": "ミックスナッツ ナッツ 「4種類のナッツを使用 満足ミックスナッツ 最大700g ( 無塩 / 無塩・焙煎 / 有塩) 」 送料無料 [ 無塩 ミックスナッツ 無添加 アーモンド 胡桃 カシュー マカダミア テーブルナッツ 菓子材料 ナッツ ]",
+   "price": 1599,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00svnu9.ej4ef10d.g00svnu9.ej4eg7c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fhonki-mode472%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoyafish/cabinet/nutsdryfruits/nut/4nut-miximg1.jpg?_ex=200x200",
+   "shop": "大浜スイーツアカデミー",
+   "review_avg": 4.26,
+   "review_count": 465
+  },
+  {
+   "rank": 8,
+   "code": "shizennoyakata:10007292",
+   "name": "≪ただ今コピーカートで販売中≫ナッツ ミックスナッツ エコパッケージ 無塩/有塩 無添加 ラッキーミックスナッツ アーモンド 素焼き 4種 3種 600g 送料無料 くるみ カシューナッツ マカダミアナッツ",
+   "price": 1549,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pvla9.ej4efd57.g00pvla9.ej4egc14/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizennoyakata%2Fmixnutsofaphantom-spsale%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/saleitem/1549_luckynuts.jpg?_ex=200x200",
+   "shop": "美味しさは元気の源 【自然の館】",
+   "review_avg": 4.59,
+   "review_count": 33889
+  },
+  {
+   "rank": 9,
+   "code": "bokunotamatebakoya:10002400",
+   "name": "【期間限定 クーポンで50%OFF】 チョコレート スイーツ「 贅沢ハイカカオはじめ 4種から選べる アーモンドチョコ 大容量 300g (ハイカカオ / ミルク / ダーク /ホワイト)」 送料無料 [ 無選別 ハイカカオ ハイビター アーモンド ] お買い物マラソン",
+   "price": 3500,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tnjc9.ej4ef0ca.g00tnjc9.ej4eg1d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoya%2Fa1004683%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoya/cabinet/event/1004/th_a1004683-2.jpg?_ex=200x200",
+   "shop": "ぼくの玉手箱屋ー",
+   "review_avg": 4.43,
+   "review_count": 2603
+  },
+  {
+   "rank": 10,
+   "code": "nuthyougo:10000672",
+   "name": "ミックスナッツ 1kg 送料無料 素焼きミックスナッツ 大人気3種類素焼きナッツ プレミアム ミックスナッツ 素焼きアーモンド 素焼きカシューナッツ 生くるみ 自然 ナッツ おつまみ おやつ『無添加・無塩・植物油不使用』",
+   "price": 1860,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00trts9.ej4efb00.g00trts9.ej4eg66a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuthyougo%2Fitem610%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/nuthyougo/cabinet/item610.jpg?_ex=200x200",
+   "shop": "NUT HYOUGO 商店",
+   "review_avg": 4.55,
+   "review_count": 2475
+  },
+  {
+   "rank": 11,
+   "code": "mochikichi:10001626",
+   "name": "【予約商品】福岡くん。×YOASOBIコラボ缶（シルバー）【国産米100％ 6種28袋 缶】【楽天マラソン期間中エントリーでポイント5倍】",
+   "price": 4980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q93u9.ej4ef04f.g00q93u9.ej4eg625/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmochikichi%2F73035%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/mochikichi/cabinet/shohin_gazo3/imgrc0141738438.jpg?_ex=200x200",
+   "shop": "おせんべい・おかきの老舗　もち吉",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 12,
+   "code": "bokunotamatebakoya:10002916",
+   "name": "ミックスナッツ 「バリスタ厳選!3種のナッツ絶妙ブレンドミックスナッツ 最大700g (無塩/無塩・焙煎/有塩)」 送料無料 ［ テーブルナッツ 小分け 菓子材料 ナッツ nuts セット 焙煎 無添加 1kg より少ない ] お買い物マラソン",
+   "price": 1510,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tnjc9.ej4ef0ca.g00tnjc9.ej4eg1d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoya%2Fh11000178%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoya/cabinet/07218371/mixednuts/3nuts/3nuts-img1.jpg?_ex=200x200",
+   "shop": "ぼくの玉手箱屋ー",
+   "review_avg": 4.26,
+   "review_count": 2251
+  },
+  {
+   "rank": 13,
+   "code": "bokunotamatebakoyafish:10002840",
+   "name": "純 ココアパウダー「砂糖不使用 2種類から選べるココアパウダー (軽やか！低脂肪ココアパウダー/濃厚！純 ココア パウダー) 500g」 送料無料 [ ピュアココア 純 ココア 砂糖不使用 ココアパウダー 無糖ココアパウダー 純ココア]",
+   "price": 1297,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00svnu9.ej4ef10d.g00svnu9.ej4eg7c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fhonki-mode475%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoyafish/cabinet/th/k25/cocoa500.jpg?_ex=200x200",
+   "shop": "大浜スイーツアカデミー",
+   "review_avg": 4.42,
+   "review_count": 706
+  },
+  {
+   "rank": 14,
+   "code": "calinuts:10000078",
+   "name": "3種 ミックスナッツ 1kg / 850g / 無添加 産地直輸入 くるみ アーモンド カシューナッツ 無塩 添加物不使用 植物油不使用",
+   "price": 1640,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zr9.ej4efdcb.g00s4zr9.ej4ege18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2Fn-1g-010%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/item/3mx850g/20260928-3mx-main.jpg?_ex=200x200",
+   "shop": "calinuts",
+   "review_avg": 4.61,
+   "review_count": 47897
+  },
+  {
+   "rank": 15,
+   "code": "denroku:10000421",
+   "name": "【年に1度の20％OFF★でん六の日】1kg 小袋 ロカボナッツチョコ 1,000g×1箱 でん六 大容量 ノンシュガー チョコレート おやつ お菓子 個包装 小袋 小分け 食べきり アーモンド くるみ 落花生",
+   "price": 4987,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ruwc9.ej4ef994.g00ruwc9.ej4eg068/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdenroku%2F10000421%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/denroku/cabinet/07965547/13879038/rkbnuts_choco_smn.jpg?_ex=200x200",
+   "shop": "でん六",
+   "review_avg": 4.85,
+   "review_count": 589
+  },
+  {
+   "rank": 16,
+   "code": "kamachu:10001812",
+   "name": "割れチョコ お試し 選べる25種 チョコレート　※10月下旬頃の発送　東京　自由が丘 チュべ・ド・ショコラ クーベルチュール　楽天スイーツランキング1位受賞！",
+   "price": 1000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pt2h9.ej4ef4c7.g00pt2h9.ej4egf37/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamachu%2Feraberu1000en%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kamachu/cabinet/item/1000poki/1000pokihl1.jpg?_ex=200x200",
+   "shop": "蒲屋忠兵衛商店",
+   "review_avg": 4.43,
+   "review_count": 10060
+  },
+  {
+   "rank": 17,
+   "code": "calinuts:10000020",
+   "name": "アーモンド 1kg USエクストラNo.1等級 【楽天グルメ大賞アーモンド部門5年連続受賞】 素焼きアーモンド 送料無料 カリフォルニア産 産地直輸入 素焼き煎りたて 常備食 無塩 添加物不使用 植物油不使用",
+   "price": 2090,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zr9.ej4efdcb.g00s4zr9.ej4ege18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2Fn-1k-001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/promotion/original-main/20260305-ad-1kg-r.jpg?_ex=200x200",
+   "shop": "calinuts",
+   "review_avg": 4.57,
+   "review_count": 54077
+  },
+  {
+   "rank": 18,
+   "code": "lindt-chocolate:10002253",
+   "name": "≪クーポンご利用で30％OFF≫【公式】 送料無料 リンツ Lindt チョコレート ベストセラーアソート リンドール&チョコウェイファー S 12種22個入｜ハロウィン ギフト スイーツ お菓子 洋菓子 チョコ 詰め合わせ 個包装 プチギフト 可愛い 手土産 誕生日 職場 転職 家族",
+   "price": 3980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjg9.ej4efe06.g00sjjg9.ej4egb39/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Frainbow_s%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/bestseller_s.jpg?_ex=200x200",
+   "shop": "リンツ チョコレート 楽天市場店",
+   "review_avg": 4.92,
+   "review_count": 72
+  },
+  {
+   "rank": 19,
+   "code": "konomimi:10000112",
+   "name": "【7,610円相当→3,980円！ 9,090円相当→4,980円！】このみみ10月 福袋 ♪　【＊10月25日以降の発送指定不可】毎月恒例！ナッツ山盛り♪このみみ福袋",
+   "price": 3980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tnco9.ej4ef21f.g00tnco9.ej4eg3af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkonomimi%2F580%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/konomimi/cabinet/07735845/13940469/202610happy-00.jpg?_ex=200x200",
+   "shop": "ナッツクリエイト　このみみ",
+   "review_avg": 4.68,
+   "review_count": 3535
+  },
+  {
+   "rank": 20,
+   "code": "bokunotamatebakoyafish:10002838",
+   "name": "アーモンド 素焼き「 ロースト 2種類( 有塩 ・無塩 )から選べる素煎りアーモンド 選べる内容量 (400g / 700g / 10kg 業務量) 」 送料無料 [ 素焼きアーモンド 送料無料 カリフォルニア産 1kg より少し少ない700g 製菓 ]",
+   "price": 1100,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00svnu9.ej4ef10d.g00svnu9.ej4eg7c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fhonki-mode24-m%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoyafish/cabinet/th/k25/honki-mode24-m2.jpg?_ex=200x200",
+   "shop": "大浜スイーツアカデミー",
+   "review_avg": 4.06,
+   "review_count": 68
+  },
+  {
+   "rank": 21,
+   "code": "onomichi:10005102",
+   "name": "【半額クーポン利用で1,599円に!10/4 20時～】 【マカダミアナッツ50%配合】 ミックスナッツ 420g×1袋 無塩・無添加 割れマカダミアナッツ(小粒) 素焼きアーモンド 生 くるみ ロースト カシューナッツ 製菓材料 送料無料 メール便限定",
+   "price": 3198,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pty69.ej4eff02.g00pty69.ej4egc66/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonomichi%2F500mc50mix-11013%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/onomichi/cabinet/sgwb/mc50mix420-main.jpg?_ex=200x200",
+   "shop": "おのみち発　北前船の贈り物",
+   "review_avg": 4.69,
+   "review_count": 867
+  },
+  {
+   "rank": 22,
+   "code": "bokunotamatebakoya:10002882",
+   "name": "アーモンド 素焼き「 ロースト 2種類( 有塩 ・無塩 )から選べる素煎りアーモンド 選べる内容量 (400g / 700g / 10kg 業務量) 」 送料無料 [ 素焼きアーモンド 送料無料 無塩 無添加 ナッツ 1kg より少し少ない700g 製菓 ] お買い物マラソン",
+   "price": 1100,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tnjc9.ej4ef0ca.g00tnjc9.ej4eg1d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoya%2Fa1000029-1%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoya/cabinet/07218371/k250725/imgrc0172321864.jpg?_ex=200x200",
+   "shop": "ぼくの玉手箱屋ー",
+   "review_avg": 4.39,
+   "review_count": 530
+  },
+  {
+   "rank": 23,
+   "code": "bokunotamatebakoya:10002320",
+   "name": "ミックスナッツ ナッツ 「4種類のナッツを使用 満足ミックスナッツ 最大700g ( 無塩 / 無塩・焙煎 / 有塩) 」 送料無料［ 無塩 ミックスナッツ 無添加 アーモンド くるみ 小分け 菓子材料 ナッツ nuts 1kg より少ない ] お買い物マラソン",
+   "price": 1599,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tnjc9.ej4ef0ca.g00tnjc9.ej4eg1d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoya%2Fa1004121%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoya/cabinet/07218371/mixednuts/4nut/4nut-miximg1.jpg?_ex=200x200",
+   "shop": "ぼくの玉手箱屋ー",
+   "review_avg": 4.2,
+   "review_count": 1624
+  },
+  {
+   "rank": 24,
+   "code": "calinuts:10000152",
+   "name": "4種ミックスナッツ 850g 産地直輸入 無塩 添加物不使用 植物油不使用 素焼き (アーモンド等級：US Extra No.1) 常備食 アーモンド くるみ カシューナッツ マカダミア",
+   "price": 1680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zr9.ej4efdcb.g00s4zr9.ej4ege18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2F4mx_850g%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/promotion/original-main/20260529-4mx-850-r.jpg?_ex=200x200",
+   "shop": "calinuts",
+   "review_avg": 4.59,
+   "review_count": 18138
+  },
+  {
+   "rank": 25,
+   "code": "bokunotamatebakoyafish:10003477",
+   "name": "【期間限定 クーポンで 50%OFF】 ナッツチョコレート 「3種類のナッツから選べる プレミアムショコラナッツ〜口どけの余韻がくすぶる贅沢仕立て〜 250g」 送料無料 [ アーモンドチョコ チョコレート ]",
+   "price": 3498,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00svnu9.ej4ef10d.g00svnu9.ej4eg7c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fchoconut250%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoyafish/cabinet/event/0919a/20261004pre.jpg?_ex=200x200",
+   "shop": "大浜スイーツアカデミー",
+   "review_avg": 4.51,
+   "review_count": 824
+  },
+  {
+   "rank": 26,
+   "code": "qgift:10000017",
+   "name": "＼九州からの贈り物／ スナック おつまみ 小魚アーモンド 約320g セット 国産 カルシウム いりこ 珍味 ナッツ 訳あり 送料無料 お取り寄せグルメ ポイント利用 爆買 ポイント消化",
+   "price": 2160,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00us439.ej4ef92f.g00us439.ej4ega01/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fqgift%2Fo-mtakana80%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/qgift/cabinet/item/data/o-mtakana80.jpg?_ex=200x200",
+   "shop": "九州からの贈り物 楽天市場店",
+   "review_avg": 4.35,
+   "review_count": 306
+  },
+  {
+   "rank": 27,
+   "code": "lindt-chocolate:10002252",
+   "name": "≪クーポンご利用で30％OFF≫【公式】送料無料 リンツ Lindt チョコレート ベストセラーアソート リンドール&チョコウェイファー L 15種34個入｜ハロウィン ギフト スイーツ お菓子 洋菓子 チョコ 詰め合わせ 個包装 プチギフト 可愛い 手土産 結婚祝い お礼 誕生日 家族",
+   "price": 5980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjg9.ej4efe06.g00sjjg9.ej4egb39/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Frainbow_l%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/bestseller_l.jpg?_ex=200x200",
+   "shop": "リンツ チョコレート 楽天市場店",
+   "review_avg": 4.78,
+   "review_count": 45
+  },
+  {
+   "rank": 28,
+   "code": "pururunhime:10000950",
+   "name": "すごいゼロ珈琲寒天ゼリー6食　ミルク風味シロップ付き　ダイエット食品　ギルトフリーデザート　ゼロカロリー　ダイエット　糖質制限　ダイエットフード　珈琲ゼリー　コーヒーゼリー 夜食　おやつ　人工甘味料不使用 母の日 父の日",
+   "price": 1000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r5zw9.ej4ef94f.g00r5zw9.ej4eg372/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpururunhime%2Fcoffee6p%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/pururunhime/cabinet/13727179/coffeekanten-6.jpg?_ex=200x200",
+   "shop": "ぷるるん姫楽天市場店",
+   "review_avg": 4.6,
+   "review_count": 7969
+  },
+  {
+   "rank": 29,
+   "code": "bokunotamatebakoya:10002870",
+   "name": "ココアパウダー 「砂糖不使用 2種類から選べるココアパウダー (軽やか！低脂肪ココアパウダー/濃厚！純 ココア パウダー) 500g」 送料無料 [ ピュアココアパウダー 純 ココア ココアパウダー 無糖ココアパウダー 無糖 カカオ ] お買い物マラソン",
+   "price": 1298,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tnjc9.ej4ef0ca.g00tnjc9.ej4eg1d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoya%2Fa1004150%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoya/cabinet/07218371/k250725/a1004150.jpg?_ex=200x200",
+   "shop": "ぼくの玉手箱屋ー",
+   "review_avg": 4.43,
+   "review_count": 556
+  },
+  {
+   "rank": 30,
+   "code": "bokunotamatebakoyafish:10002909",
+   "name": "【楽天グルメクーポン 期間限定 30%OFF】 ホールタルト 絶対に後悔させない! 「絶対食べて欲しい。14種類から1種が選べるLuxe(リュクス)ホテルタルト6号」 送料無料 [ タルトケーキ タルト ] 【予約販売 | チョコタルト10/20以降出荷】",
+   "price": 3798,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00svnu9.ej4ef10d.g00svnu9.ej4eg7c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fr-tarut-hole%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoyafish/cabinet/cake/26tart/luxe-hotel-tart.jpg?_ex=200x200",
+   "shop": "大浜スイーツアカデミー",
+   "review_avg": 4.35,
+   "review_count": 802
+  }
+ ]
+}
