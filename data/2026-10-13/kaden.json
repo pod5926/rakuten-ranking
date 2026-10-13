@@ -1,0 +1,340 @@
+{
+ "genre": {
+  "slug": "kaden",
+  "id": 562637,
+  "name": "家電"
+ },
+ "date": "2026-10-13",
+ "items": [
+  {
+   "rank": 1,
+   "code": "dyson:10002092",
+   "name": "【期間限定P10倍】 ダイソン Dyson Cyclone V10 Fluffy 掃除機 コードレス掃除機 dyson SV58 AD-A NKLCPR ダイソン公式 新品 ダイソン掃除機 スティック掃除機 ハンディクリーナー ハンディ掃除機 コードレス サイクロン",
+   "price": 29900,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s44m9.ej4ef366.g00s44m9.ej4eg036/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdyson%2F593813-01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/dyson/cabinet/product/13169084/sv58ad_point_em.jpg?_ex=200x200",
+   "shop": "Dyson公式 楽天市場店",
+   "review_avg": 4.11,
+   "review_count": 145
+  },
+  {
+   "rank": 2,
+   "code": "quads:10000095",
+   "name": "【QUADS公式】 スチーム加湿器 GLASS グラス ガラスポッド式 大容量 2.6L 上部給水 最大17畳 最大加湿650ml/h 抗菌 LEDライト 間接照明 2段階調整 クワッズ公式【メーカー保証付き】",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo69.ej4ef7a3.g00ugo69.ej4ege61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs549%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/26aw/top_tmb/qs661_top_tmb_2.jpg?_ex=200x200",
+   "shop": "QUADS公式楽天市場店",
+   "review_avg": 4.56,
+   "review_count": 401
+  },
+  {
+   "rank": 3,
+   "code": "brita:10000161",
+   "name": "【公式・正規品】 ポット型浄水器用カートリッジ マクストラプロ ピュアパフォーマンス 8個セット | 日本仕様 浄水カートリッジ 浄水ポット マ 日本仕様 ブリタカートリッジ brita maxtra アウトレット PFAS (PFOS/PFOA) 除去",
+   "price": 8630,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsu9.ej4efc67.g00tbsu9.ej4ega23/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-8%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-8.jpg?_ex=200x200",
+   "shop": "浄水器のブリタ公式 楽天市場店",
+   "review_avg": 4.78,
+   "review_count": 26622
+  },
+  {
+   "rank": 4,
+   "code": "plywood:10022493",
+   "name": "●楽天1位 【豪華レシピ2冊付き】 レコルト 自動調理ポット ラージ RSY-3 自動調理ラージrecolte Auto Cooking Pot Large 自動調理 大容量 防水 ミキサー ブレンダー 豆乳メーカー スープメーカー◇電気 レシピ付 離乳食 保温 氷OK 送料無料 P10倍",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd89.ej4ef512.g00pzd89.ej4eg108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplywood%2F20149424%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/plywood/cabinet/503/20149424.jpg?_ex=200x200",
+   "shop": "plywood キッチン・インテリア雑貨",
+   "review_avg": 4.74,
+   "review_count": 426
+  },
+  {
+   "rank": 5,
+   "code": "roomy:10018139",
+   "name": "【特典＋36種類レシピ付】レコルト スープメーカー 豆乳メーカー スープ 全自動 豆乳機 自動調理 ポタージュメーカー ミキサー ブレンダー 保温 豆乳 おかゆ お粥 離乳食 自動調理器 スムージー 味噌汁 レシピ 800mL 1L 大容量 RSY-3［ recolte 自動調理ポット ラージ ］",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qb0l9.ej4efebf.g00qb0l9.ej4eg8d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fwin26feb09a01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/sp-8/win2006-to010-1_gt03.jpg?_ex=200x200",
+   "shop": "インテリアショップ roomy",
+   "review_avg": 4.73,
+   "review_count": 579
+  },
+  {
+   "rank": 6,
+   "code": "roomy:10015766",
+   "name": "●楽天1位●【2大特典付き＋30レシピ付】レコルト 豆乳メーカー 全自動 豆乳機 スープメーカー 自動調理 ポタージュメーカー ミキサー ブレンダー 保温 スープ 豆乳 おかゆ おから お粥 離乳食 自動調理器 スムージー 味噌汁 豆乳マシン RSY-2［ recolte 自動調理ポット ］",
+   "price": 13200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qb0l9.ej4efebf.g00qb0l9.ej4eg8d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fwin20oct27h03%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/p10n-4/win2006-nx014-1_gt01.jpg?_ex=200x200",
+   "shop": "インテリアショップ roomy",
+   "review_avg": 4.68,
+   "review_count": 21931
+  },
+  {
+   "rank": 7,
+   "code": "kukuya:10000154",
+   "name": "先着100個まで！クーポンで5,980円【楽天総合1位獲得】ドライヤー ヘアドライヤー 1200W 大風量 速乾 時短 低温ドライヤー 8億マイナスイオン 高速ドライヤー 軽量 静音 40m/s 57℃恒温 静電気除去 コンパクト 人気 髪質改善 美容家電 ヘアケア 美髪",
+   "price": 12980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ugkt9.ej4ef99d.g00ugkt9.ej4ega71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkukuya%2Fprismion%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kukuya/cabinet/10021708/hdt/prismion-6490.jpg?_ex=200x200",
+   "shop": "Varya",
+   "review_avg": 4.6,
+   "review_count": 550
+  },
+  {
+   "rank": 8,
+   "code": "vesync:10000022",
+   "name": "【2,900円クーポン】COSORI DCモーター搭載 ノンフライヤー 6L 大容量 95%オイルカット 最高230℃まで 360°熱風循環 ヘルシー トレーニング 体重管理 大人数向け 家庭用 パーティー 特典レシピ本付き TurboBlaze CAF-DC601 ブラック[メーカー保証2年]",
+   "price": 19980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u8eb9.ej4ef6d8.g00u8eb9.ej4eg4c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0106y%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/10953403/imgrc0092746154.jpg?_ex=200x200",
+   "shop": "Vesync公式　楽天市場店",
+   "review_avg": 4.75,
+   "review_count": 798
+  },
+  {
+   "rank": 9,
+   "code": "leapgrow:10000648",
+   "name": "【公式｜期間限定 5％OFFクーポン+ポイント5倍！】新感覚ヘッドスパ 頭皮 ヘッドマッサージ機 固い頭皮に【公式】MYTREX VIDO ヘッドマッサージャー ビドー フェイスケア リフトケア 頭皮ケア ボディケア 電動ブラシ ドライヘッドスパ 横振動 美顔器 美髪",
+   "price": 16280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ssj29.ej4efe4c.g00ssj29.ej4egd80/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-vd22b%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/p0/p00_vd_01b.jpg?_ex=200x200",
+   "shop": "MYTREX 公式ストア 楽天市場店",
+   "review_avg": 4.67,
+   "review_count": 2349
+  },
+  {
+   "rank": 10,
+   "code": "mtgec-beauty:10002142",
+   "name": "＼楽天総合1位！／リファ 公式店 リファ ストレートアイロン プロ STRAIGHT IRON PRO ツヤ髪 海外対応 ヘアアイロン コテ プレゼント ギフト 無料保証 ツヤ 傷みにくい ダメージレス ヘアケア 誕生日 記念日 MTG 365日ダメージレス",
+   "price": 23000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r20g9.ej4ef1fd.g00r20g9.ej4eg6fa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F3891620108%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/mtgec-beauty/cabinet/refa/refa_siron_pro/imgrc0135157195.jpg?_ex=200x200",
+   "shop": "MTG ONLINESHOP",
+   "review_avg": 4.6,
+   "review_count": 2259
+  },
+  {
+   "rank": 11,
+   "code": "ulike-store:10000046",
+   "name": "【35%OFFクーポンで69,800円 → 45,370円+条件達成で合計3,000P！10/4〜10/11】＜新発売＞ Ulike 公式 Air 10 Max IPL 光美容器 2026年モデル ユーライク 脱毛器 脱毛 冷却機能 USHRモード 顔 ワキ ヒゲ 自宅ケア 女性 男性",
+   "price": 69800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u7u09.ej4ef6e1.g00u7u09.ej4ege07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulike-store%2Fair10-ui20%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/ulike-store/cabinet/kiritanimireisan/air10max_thumb_ma.jpg?_ex=200x200",
+   "shop": "ULIKE CARE",
+   "review_avg": 4.46,
+   "review_count": 8221
+  },
+  {
+   "rank": 12,
+   "code": "nene777:10000018",
+   "name": "掃除機 コードレス【楽天12連冠達成！吸引力完全進化110Kpa超強力!革新版グリーンLEDライト付＆60分連続稼働＆自立式&次世代LED液晶ディスプレイ】掃除機サイクロン式3段吸引力絡まないヘッド LED液晶ディスプレイ軽量低騒音伸縮パイプ HEPA多重濾過着脱式バッテリー3年保証",
+   "price": 11980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00upsp9.ej4ef537.g00upsp9.ej4eg06c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnene777%2Fcompass1747365900%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1791356890.jpg?_ex=200x200",
+   "shop": "NENE777楽天市場店",
+   "review_avg": 4.6,
+   "review_count": 5032
+  },
+  {
+   "rank": 13,
+   "code": "nanobig:10000898",
+   "name": "【クーポンで1900円オフ】2026新モデル【2年保証】掃除機 コードレス掃除機 Orage史上 超高性能 RR11 軽量 人気 1位 自立 自走式 スティック クリーナー サイクロン 強力吸引 充電式 掃除機 ジェネリック家電 布団クリーナー",
+   "price": 13500,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz29.ej4ef7e9.g00rdz29.ej4eg6ed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr11%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/oragerr11_main.jpg?_ex=200x200",
+   "shop": "ナノビッグ楽天市場店",
+   "review_avg": 4.51,
+   "review_count": 3689
+  },
+  {
+   "rank": 14,
+   "code": "vesync:10000001",
+   "name": "【2,000円クーポン】COSORI ノンフライヤー CAF-L501 4.7L大容量 エアフライヤー 電気フライヤー ノンオイル フライヤー 卓上 LEDディスプレイ タッチパネル タイマー 温度調整 レシピ付き 家庭用 送料無料[メーカー保証2年]",
+   "price": 13980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u8eb9.ej4ef6d8.g00u8eb9.ej4eg4c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0062%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=200x200",
+   "shop": "Vesync公式　楽天市場店",
+   "review_avg": 4.68,
+   "review_count": 1211
+  },
+  {
+   "rank": 15,
+   "code": "kobe-beauty-labo:10000074",
+   "name": "《公式店》【SALONIA ストレート ヘアアイロン 15mm 24mm 35mm】楽天1位送料無料 1年保証 耐熱ポーチ付き サロニア 人気 おすすめ プレゼント コテ アイロン hk クリスマスプレゼント 女性 slall",
+   "price": 3828,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r23n9.ej4efd93.g00r23n9.ej4egfe6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fmain-salo6%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/main-salo6.jpg?_ex=200x200",
+   "shop": "アンド ハビット",
+   "review_avg": 4.56,
+   "review_count": 39064
+  },
+  {
+   "rank": 16,
+   "code": "kobe-beauty-labo:10002795",
+   "name": "【 SALONIA スムースシャイン スマート ドライヤー 】大風圧 大風量 速乾 プロ 3WAY アタッチメント まとまり ツヤ ブロー 寝癖 アホ毛 ボリュームアップ　ギフト 女性",
+   "price": 14850,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r23n9.ej4efd93.g00r23n9.ej4egfe6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fsal027%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/sal027.jpg?_ex=200x200",
+   "shop": "アンド ハビット",
+   "review_avg": 4.1,
+   "review_count": 189
+  },
+  {
+   "rank": 17,
+   "code": "tfi-shop:10000005",
+   "name": "洗濯機かさ上げ台 防振・防音 ゴムマット 洗濯機 かさ上げ かさあげ 台 かさ上げ台 置き台 洗濯機置き台 台座 TFi-9045 ドラム式/縦型対応 高さ調整 洗濯機かさあげ かさあげ台 嵩上げ キズ凹み防止 振動防止 防振 防音 騒音対策 あしあげ隊 タツフト 【楽天ランキング1位】",
+   "price": 5500,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u3gf9.ej4efcc0.g00u3gf9.ej4eg871/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftfi-shop%2Ftfi-9045%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/tfi-shop/cabinet/yec/tfi-9045/260324_9045_s01.jpg?_ex=200x200",
+   "shop": "タツフトTFiショップ",
+   "review_avg": 4.58,
+   "review_count": 2897
+  },
+  {
+   "rank": 18,
+   "code": "hotch-potch:10017531",
+   "name": "◆楽天1位◆スープメーカー【豪華選べる特典】自動調理ポット【30レシピ付】レコルト recolte 自動調理ポット ブレンダー ミキサー 氷も砕ける フードプロセッサー スープ 豆乳 600ml 豆乳メーカー スムージーメーカー ポタージュ 離乳食 RSY-2【ポイント10倍】",
+   "price": 13200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1c9.ej4efa02.g00pw1c9.ej4egf83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotch-potch%2F00014257_cooking_pot%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hotch-potch/cabinet/kago_img11/00014257.jpg?_ex=200x200",
+   "shop": "ホッチポッチ自由が丘 WEB shop",
+   "review_avg": 4.68,
+   "review_count": 16938
+  },
+  {
+   "rank": 19,
+   "code": "wide02:10022807",
+   "name": "【ポイント10倍 送料無料】ガラススチーム加湿器 GLASS グラス QS649 上部給水 加湿器 スチーム式 加湿器 上から給水 加熱式 スチーム式加湿器 卓上 加湿器 ガラスポット 耐熱ガラス おしゃれ LEDライト ムードライト 明るさ調節 チャイルドロック 乾燥対策 クワッズ 【RSL】",
+   "price": 15400,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rhyq9.ej4ef60c.g00rhyq9.ej4eg812/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwide02%2F80064%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/wide02/cabinet/guide2/80205-80206-r.jpg?_ex=200x200",
+   "shop": "通販ライフ",
+   "review_avg": 5.0,
+   "review_count": 1
+  },
+  {
+   "rank": 20,
+   "code": "plywood:10017400",
+   "name": "★楽天1位【30レシピ＋選べる2特典】レコルト 自動調理ポット RSY-2 自動調理 正規品recolte Auto Cooking Pot 電気 ミキサー ブレンダー 豆乳メーカー スープメーカー スープ スープジャー 小型 レシピ付き◇離乳食 介護食 豆乳機 保温 氷OK 送料無料 P10倍",
+   "price": 13200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd89.ej4ef512.g00pzd89.ej4eg108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplywood%2F20149238%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/plywood/cabinet/502/20149324.jpg?_ex=200x200",
+   "shop": "plywood キッチン・インテリア雑貨",
+   "review_avg": 4.71,
+   "review_count": 9060
+  },
+  {
+   "rank": 21,
+   "code": "createsstore:10000002",
+   "name": "★公式店限定 保証期間最大2年★ クレイツ 公式店 コテ カールアイロン カールプロ SR クレイツ ヘアアイロン カール コテ 正規品 26mm 32mm 38mm 45mm CREATEs クレイツイオン イオンカール プロ ヘアケア スタイリング 美容師 サロン専売 巻き髪 美髪 艶 ツヤ ギフト",
+   "price": 10780,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ufv99.ej4ef483.g00ufv99.ej4eg8a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcreatesstore%2Fcurl-pro-2%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/createsstore/cabinet/ci/imgrc0118878510.jpg?_ex=200x200",
+   "shop": "クレイツ公式楽天市場店",
+   "review_avg": 4.64,
+   "review_count": 194
+  },
+  {
+   "rank": 22,
+   "code": "store-ecovacs-japan:10000502",
+   "name": "【クーポン利用で34,800円&P10倍！10/2 20:00〜10/12 23:59】ロボット掃除機 DEEBOT N30 PLUSエコバックス 公式 ECOVACS お掃除ロボット 掃除機 自動掃除機 掃除ロボット 高性能 マッピング機能 自動ゴミ収集 水拭き お掃除 メーカー保証最大24ヶ月 2025",
+   "price": 69800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sun69.ej4efd29.g00sun69.ej4eg80f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstore-ecovacs-japan%2Fydlx11-35ee%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/store-ecovacs-japan/cabinet/campaign/261002/ydlx11-35ee.jpg?_ex=200x200",
+   "shop": "エコバックスジャパン公式 ストア",
+   "review_avg": 4.47,
+   "review_count": 394
+  },
+  {
+   "rank": 23,
+   "code": "beautypark2017:10005029",
+   "name": "【楽天1位/正規店】recolte レコルト 自動調理ポット ラージ クリームホワイト/ナチュラルブラック RSY-3ブレンダー ミキサー フードプロセッサー スープ 豆乳 大容量 800ml 豆乳メーカー スムージーメーカー ポタージュメーカー 離乳食",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sqjg9.ej4efeaa.g00sqjg9.ej4egbd5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautypark2017%2Frecolte-pot-l%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/beautypark2017/cabinet/kaden/recolte/pot/imgrc0157768450.jpg?_ex=200x200",
+   "shop": "BEAUTY PARK 楽天市場店",
+   "review_avg": 4.75,
+   "review_count": 257
+  },
+  {
+   "rank": 24,
+   "code": "mycosmeticbox:10000390",
+   "name": "【絹女圧倒的売上数につきレビューキャンペーン中】キヌージョ ストレートアイロン Kinujo ストレートアイロン KINUJO LM225 ストレートアイロン　ヘアアイロン 絹女ヘアアイロン ミニアイロン（ホワイト） 海外対応ストレートアイロン プロストレートアイロン",
+   "price": 9500,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u9wa9.ej4ef353.g00u9wa9.ej4eg698/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmycosmeticbox%2Fwrinkle%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/straght-top-promo.jpg?_ex=200x200",
+   "shop": "MyCosmeticBox",
+   "review_avg": 4.64,
+   "review_count": 400
+  },
+  {
+   "rank": 25,
+   "code": "brita:10000052",
+   "name": "【レビュー特典あり】【訳アリ】公式 浄水器のブリタ 交換用カートリッジ マクストラプロ ピュアパフォーマンス3個セット | カートリッジ 浄水ポット マクストラ 日本仕様 ブリタカートリッジ brita maxtra アウトレット PFAS (PFOS/PFOA) 除去 pfas浄水器",
+   "price": 4082,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsu9.ej4efc67.g00tbsu9.ej4ega23/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-3-w%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-3-w.jpg?_ex=200x200",
+   "shop": "浄水器のブリタ公式 楽天市場店",
+   "review_avg": 4.75,
+   "review_count": 13531
+  },
+  {
+   "rank": 26,
+   "code": "granbeautyon-line:10001994",
+   "name": "【3日間限定】＼6,200円OFF／【正規品】【1年保証】〈選べる〉絹女 KINUJO キヌージョストレートヘアアイロン LM225 ホワイト プロ ストレートアイロン kp001",
+   "price": 24200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tg139.ej4ef276.g00tg139.ej4eg233/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgranbeautyon-line%2F4589946770728-14608%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/granbeautyon-line/cabinet/3000off2/5rwesgf.jpg?_ex=200x200",
+   "shop": "GRAN BEAUTY WORLD楽天市場店",
+   "review_avg": 4.83,
+   "review_count": 80
+  },
+  {
+   "rank": 27,
+   "code": "next-online:10000197",
+   "name": "【楽天6冠】冷蔵庫マット＼強度10倍／即日出荷 冷蔵庫 マット 冷蔵庫下マット クリア 透明 防カビ 撥水 キズ 凹み 防止 下敷き ポリカーボネート 極 洗濯機 冷凍庫 床暖房 傷防止 高耐久 厚さ 2mm S M L XM 200L 400L 600L 床 保護 耐荷重 450kg 角丸加工 53 62 65 70 75",
+   "price": 3380,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tfbh9.ej4ef40f.g00tfbh9.ej4eg551/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnext-online%2F10000197%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/next-online/cabinet/06938766/09336903/samune20250108.jpg?_ex=200x200",
+   "shop": "Nextオンライン",
+   "review_avg": 4.65,
+   "review_count": 7778
+  },
+  {
+   "rank": 28,
+   "code": "leapgrow:10000530",
+   "name": "【公式｜期間限定 5％OFFクーポン+ポイント5倍！】【小松菜奈さん出演】マッサージガン マイトレックス 売れ筋 relax 筋膜リリースガン マッサージ機 小型 MYTREX REBIVE MINI XS2 公式 肩 首 足 ふくらはぎ 足裏 肩甲骨 腰 フェイス 振動マシン",
+   "price": 14960,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ssj29.ej4efe4c.g00ssj29.ej4egd80/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-rmxs21b%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/amb/p00/p00_amb_xs2_01b.jpg?_ex=200x200",
+   "shop": "MYTREX 公式ストア 楽天市場店",
+   "review_avg": 4.7,
+   "review_count": 4028
+  },
+  {
+   "rank": 29,
+   "code": "mrock:10012094",
+   "name": "【ケノン 公式　最新バージョン】 脱毛器 ランキング588週1位※ 日本製 美顔器 家庭用 ムダ毛処理 ヒゲ ボディ メンズレディース アンダーヘア レーザー 髭 光美容器 脱毛器ケノン公式 VIO 光脱毛器 口コミ IPL 介護 脱毛機 ホーム フラッシュ 美顔機 ※詳細ペ-ジ※9 ケツ毛",
+   "price": 79800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00prkp9.ej4ef205.g00prkp9.ej4eg863/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/mrock/cabinet/k/20260825kenon.jpg?_ex=200x200",
+   "shop": "エムロック楽天市場店",
+   "review_avg": 4.33,
+   "review_count": 201438
+  },
+  {
+   "rank": 30,
+   "code": "matsucame:10074861",
+   "name": "楽天1位 CCP 電気ちりとり Neo ZN-DP75-WH シーシーピー ほうき用アタッチメント付 紙パック5枚付 ごみ箱 掃除機 吸引式ちり取り おしゃれ 塵とり 電気ちりとりネオ 吸引機 電機ちりとり 吸引機 床掃除機 フローリング 吸引ゴミ箱 電気塵取り 自動塵箱 ごみ箱 [12月上旬入荷]",
+   "price": 7680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00puee9.ej4ef6e3.g00puee9.ej4eg0a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsucame%2Foda1572%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/matsucame/cabinet/new-1/oda1572zkae-rank.jpg?_ex=200x200",
+   "shop": "マツカメショッピング 扇風機",
+   "review_avg": 4.64,
+   "review_count": 67
+  }
+ ]
+}
