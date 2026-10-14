@@ -1,0 +1,340 @@
+{
+ "genre": {
+  "slug": "sweets",
+  "id": 551167,
+  "name": "スイーツ・お菓子"
+ },
+ "date": "2026-10-14",
+ "items": [
+  {
+   "rank": 1,
+   "code": "nuthyougo:10000672",
+   "name": "ミックスナッツ 1kg 送料無料 素焼きミックスナッツ 大人気3種類素焼きナッツ プレミアム ミックスナッツ 素焼きアーモンド 素焼きカシューナッツ 生くるみ 自然 ナッツ おつまみ おやつ『無添加・無塩・植物油不使用』",
+   "price": 1860,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00trts9.ej4efb00.g00trts9.ej4eg66a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuthyougo%2Fitem610%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/nuthyougo/cabinet/item610.jpg?_ex=200x200",
+   "shop": "NUT HYOUGO 商店",
+   "review_avg": 4.55,
+   "review_count": 2525
+  },
+  {
+   "rank": 2,
+   "code": "calinuts:10000078",
+   "name": "3種 ミックスナッツ 1kg / 850g / 無添加 産地直輸入 くるみ アーモンド カシューナッツ 無塩 添加物不使用 植物油不使用",
+   "price": 1640,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zr9.ej4efdcb.g00s4zr9.ej4ege18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2Fn-1g-010%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/item/3mx850g/20260928-3mx-main.jpg?_ex=200x200",
+   "shop": "calinuts",
+   "review_avg": 4.61,
+   "review_count": 47971
+  },
+  {
+   "rank": 3,
+   "code": "calinuts:10000020",
+   "name": "アーモンド 1kg USエクストラNo.1等級 【楽天グルメ大賞アーモンド部門5年連続受賞】 素焼きアーモンド 送料無料 カリフォルニア産 産地直輸入 素焼き煎りたて 常備食 無塩 添加物不使用 植物油不使用",
+   "price": 2090,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zr9.ej4efdcb.g00s4zr9.ej4ege18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2Fn-1k-001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/promotion/original-main/20260305-ad-1kg-r.jpg?_ex=200x200",
+   "shop": "calinuts",
+   "review_avg": 4.57,
+   "review_count": 54132
+  },
+  {
+   "rank": 4,
+   "code": "suzuyaebisudo:10000425",
+   "name": "リンツ リンドール LINDOR チョコレート アソート 36個 48個 ミルク ダーク 600g 36粒 48粒 Lindt ボンボン チョコ ハロウィン お配り ばら撒き チョコ プチギフト Xmas クリスマス 大容量 プレゼント 贈り物",
+   "price": 2980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tx9a9.ej4ef174.g00tx9a9.ej4egad6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuzuyaebisudo%2Fr-lindor-48-gsp%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/suzuyaebisudo/cabinet/product/item02/lindor26-assort_01v3.jpg?_ex=200x200",
+   "shop": "すずや恵比寿堂",
+   "review_avg": 4.41,
+   "review_count": 3190
+  },
+  {
+   "rank": 5,
+   "code": "imokuniya:10000012",
+   "name": "芋國屋 干し芋 訳あり 1kg 国産 無添加 紅はるか 干しいも 切り落とし ダイエット おやつ お菓子 和菓子 さつまいも 送料無料 ギフト スイーツ 茨城県産 N1",
+   "price": 2990,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tzq19.ej4efdca.g00tzq19.ej4eg606/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimokuniya%2F10000012%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/imokuniya/cabinet/10041778/10171310/n1_thumb_0206.jpg?_ex=200x200",
+   "shop": "芋國屋",
+   "review_avg": 4.56,
+   "review_count": 37165
+  },
+  {
+   "rank": 6,
+   "code": "young-doughnut:10000001",
+   "name": "【数量限定！】宮田製菓ドーナツ アウトレット選べるドーナツセット(2種3袋セット)【注意】同梱は+3商品までで！別注文で同梱の場合は必ずご連絡ください！！",
+   "price": 1200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sl4i9.ej4effac.g00sl4i9.ej4eg85f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoung-doughnut%2Foutlet_d01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/young-doughnut/cabinet/05123880/outlet/outlet_select_d3/imgrc0151952243.jpg?_ex=200x200",
+   "shop": "ヤングくんのお菓子箱",
+   "review_avg": 4.67,
+   "review_count": 2746
+  },
+  {
+   "rank": 7,
+   "code": "calinuts:10000152",
+   "name": "4種ミックスナッツ 850g 産地直輸入 無塩 添加物不使用 植物油不使用 素焼き (アーモンド等級：US Extra No.1) 常備食 アーモンド くるみ カシューナッツ マカダミア",
+   "price": 1680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zr9.ej4efdcb.g00s4zr9.ej4ege18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2F4mx_850g%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/promotion/original-main/20260529-4mx-850-r.jpg?_ex=200x200",
+   "shop": "calinuts",
+   "review_avg": 4.59,
+   "review_count": 18182
+  },
+  {
+   "rank": 8,
+   "code": "shizennoyakata:10007292",
+   "name": "≪はじめてなら511円OFF★新規限定クーポン≫ナッツ ミックスナッツ エコパッケージ 無塩/有塩 無添加 ラッキーミックスナッツ アーモンド 素焼き 4種 3種 600g 送料無料 くるみ カシューナッツ マカダミアナッツ",
+   "price": 1950,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pvla9.ej4efd57.g00pvla9.ej4egc14/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizennoyakata%2Fmixnutsofaphantom-spsale%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/saleitem/1749_luckynuts.jpg?_ex=200x200",
+   "shop": "美味しさは元気の源 【自然の館】",
+   "review_avg": 4.59,
+   "review_count": 33919
+  },
+  {
+   "rank": 9,
+   "code": "yokumoku:10000435",
+   "name": "【送料無料】【公式】ヨックモック サンク デリス 5種40個入 ハロウィン 秋 2026 詰め合わせ プレゼント スイーツ ギフト プチギフト クッキー 退職 洋菓子 お菓子 焼き菓子 手土産 個包装 お取り寄せ お礼 お祝い",
+   "price": 3672,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx69.ej4efa50.g00rvx69.ej4egab1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309010%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_thumbnail/aw/10345986/delices40_26aw.jpg?_ex=200x200",
+   "shop": "ヨックモック　楽天市場店",
+   "review_avg": 4.71,
+   "review_count": 2689
+  },
+  {
+   "rank": 10,
+   "code": "lindt-chocolate:10001570",
+   "name": "〔ソーシャルギフト対象〕【公式】 リンツ チョコレート リンドール テイスティングセット 16個入｜ハロウィン ギフト 可愛い スイーツ お菓子 おしゃれ 誕生日 手土産 お礼 お返し 家族 子供 装飾 個包装 ご褒美 自分へのご褒美 プチギフト【レビューキャンペーン対象】",
+   "price": 2980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjg9.ej4efe06.g00sjjg9.ej4egb39/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2F9800606%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/9702196_03.jpg?_ex=200x200",
+   "shop": "リンツ チョコレート 楽天市場店",
+   "review_avg": 4.72,
+   "review_count": 3235
+  },
+  {
+   "rank": 11,
+   "code": "sucreyshop:10000030",
+   "name": "【P5倍】10/9 15:00〜10/13 9:59まで＼3年連続／ 2025年楽天グルメ大賞受賞 【メープルバタークッキー】選べる入数 ザ・メープルマニア お菓子 ギフト 詰め合わせ 個包装 クッキー ラングドシャ 焼き菓子 洋菓子 プレゼント 内祝 お返し お祝 退職",
+   "price": 1460,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tq9a9.ej4efc7f.g00tq9a9.ej4egae6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsucreyshop%2Ftmm01101f%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/sucreyshop/cabinet/pointup/imgrc0128959638.jpg?_ex=200x200",
+   "shop": "シュクレイ楽天市場店",
+   "review_avg": 4.75,
+   "review_count": 1409
+  },
+  {
+   "rank": 12,
+   "code": "calinuts:10000293",
+   "name": "アメリカ産ピーナッツ入り5種ミックスナッツ 1kg ハイオレイックピーナッツ アーモンド 生くるみ カシューナッツ マカダミアナッツ 落花生 素焼き 無塩 たんぱく質 添加物不使用 おつまみ おやつ チャック付き",
+   "price": 1680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zr9.ej4efdcb.g00s4zr9.ej4ege18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2Fhipn-5mix-1kg%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/promotion/original-main/260623-hipn5mx-1kg-r.jpg?_ex=200x200",
+   "shop": "calinuts",
+   "review_avg": 4.64,
+   "review_count": 2390
+  },
+  {
+   "rank": 13,
+   "code": "maochan:10000047",
+   "name": "和栗 モンブラン ケーキ ギフト スイーツ お菓子 高級 おしゃれ 誕生日プレゼント 生羊羹 和栗 栗くり ティラミス 和菓子 誕生日ケーキ 誕生日 スイーツ 記念日 お祝い 出産 内祝い お返し 退職祝い お見舞い お礼 送料無料 お取り寄せスイーツ 贈り物 ソーシャルギフト",
+   "price": 3980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u37h9.ej4efde4.g00u37h9.ej4ege08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaochan%2Fmcs-g1%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/maochan/cabinet/shohin/montblanc/mb_1000.jpg?_ex=200x200",
+   "shop": "菓匠もりん（morin）",
+   "review_avg": 4.71,
+   "review_count": 1502
+  },
+  {
+   "rank": 14,
+   "code": "sonoshokuan:10000264",
+   "name": "10/14/20時スタート★お試し送料無料1,299円！カリフォルニア産 一級品 無添加 生クルミ 大容量 たっぷり700g くるみ オメガ3脂肪酸 メール便【P】敬老の日 残暑見舞",
+   "price": 1299,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u0et9.ej4ef9bf.g00u0et9.ej4eg5b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsonoshokuan%2F901116%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/sonoshokuan/cabinet/item/nuts/syouhin700g1200.jpg?_ex=200x200",
+   "shop": "祖の食庵",
+   "review_avg": 4.7,
+   "review_count": 3292
+  },
+  {
+   "rank": 15,
+   "code": "e-kinokuniyashop:10005687",
+   "name": "紀ノ国屋　ラー油えびせん",
+   "price": 453,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q88r9.ej4ef5c5.g00q88r9.ej4ega31/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kinokuniyashop%2F1107-4960320031725%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kinokuniyashop/cabinet/01151880/4960320031725-p.jpg?_ex=200x200",
+   "shop": "e-shop KINOKUNIYA 楽天市場店",
+   "review_avg": 5.0,
+   "review_count": 7
+  },
+  {
+   "rank": 16,
+   "code": "maisondumiel:10000000",
+   "name": "《楽天ランキング1位獲得》ミエルの赤いクッキー缶 ◆ クッキー缶 ギフト 詰め合わせ 焼き菓子 プレゼント おしゃれ 缶入り かわいい サブレ お菓子 クッキー プチギフト お取り寄せ",
+   "price": 3280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u17a9.ej4ef810.g00u17a9.ej4eg5e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaisondumiel%2Fred-cookie-can%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/maisondumiel/cabinet/cr/kago/red-cooke_thumb.jpg?_ex=200x200",
+   "shop": "maison du miel",
+   "review_avg": 4.74,
+   "review_count": 1790
+  },
+  {
+   "rank": 17,
+   "code": "yokumoku:10000905",
+   "name": "【送料無料】【公式】ヨックモック シス デリス 6種50個入 ハロウィン 秋 2026 詰め合わせ プレゼント スイーツ ギフト プチギフト クッキー 退職 洋菓子 お菓子 焼き菓子 手土産 個包装 お取り寄せ お礼 お祝い",
+   "price": 4860,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx69.ej4efa50.g00rvx69.ej4egab1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309120%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_thumbnail/aw/10345986/delices50_26aw.jpg?_ex=200x200",
+   "shop": "ヨックモック　楽天市場店",
+   "review_avg": 4.81,
+   "review_count": 183
+  },
+  {
+   "rank": 18,
+   "code": "d-fit:10010172",
+   "name": "【楽天グルメ大賞2025受賞】キシリトールガム 歯科専用 味の組み合わせが2種類選べる オーラルケア ボトルタイプ 4個セット （153g(90粒相当)/1個） ボトルガム 口臭予防【歯科専用】 【送料無料】",
+   "price": 4180,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r6h39.ej4efa63.g00r6h39.ej4egab1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Ftttt90%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg01/tttt90_2025sam.jpg?_ex=200x200",
+   "shop": "歯科医院専売品のデンタルフィット",
+   "review_avg": 4.64,
+   "review_count": 553
+  },
+  {
+   "rank": 19,
+   "code": "letao:10000923",
+   "name": "ハロウィン ギフト 2026 ケーキ ルタオ LeTAO ドゥーブルフロマージュ チーズケーキ チョコレートケーキ ギフト 4号 ( 2名用 ～ 4名用 ) 誕生日ケーキ 冷凍ケーキ スイーツ 洋菓子 お取り寄せ 北海道 内祝い お返し 詰め合わせ 選べる ドゥーブル 2点 セット 送料込み",
+   "price": 5480,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rjik9.ej4efa67.g00rjik9.ej4eg417/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fletao%2Ff808%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/letao/cabinet/item/13814731/f808_item_01.jpg?_ex=200x200",
+   "shop": "LeTAO（小樽洋菓子舗ルタオ）",
+   "review_avg": 4.82,
+   "review_count": 4501
+  },
+  {
+   "rank": 20,
+   "code": "drugpure:10330088",
+   "name": "【あす楽17時（日曜15時）まで】【☆】【メール便で送料無料でお届け】養命酒製造　養命酒製造 クロモジのど飴 アソート3種類セット（黒蜜×ハーブ風味 76g+ 生姜はちみつ 76g+和みミント76g）(JAN:4987236019067／4987236019098／4987236019098)",
+   "price": 1098,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q46y9.ej4ef89b.g00q46y9.ej4eg685/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrugpure%2Fyu_kuromojiaso%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/drugpure/cabinet/kihon67/kuromojiasoy.jpg?_ex=200x200",
+   "shop": "ドラッグピュア楽天市場店",
+   "review_avg": 4.66,
+   "review_count": 38
+  },
+  {
+   "rank": 21,
+   "code": "exicoast02:10007755",
+   "name": "サンリオキャラクターズ ミルクキャップシアーチャーム&チョコボーロ 10個 BOX 食玩 賞味期限2027/06",
+   "price": 3980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t2xq9.ej4ef523.g00t2xq9.ej4eg530/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexicoast02%2Fb0h2cw2x41%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/exicoast02/cabinet/11960931/12005433/imgrc0117557253.jpg?_ex=200x200",
+   "shop": "exicoast Internet store 2号店",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 22,
+   "code": "aozorahonpo:10000074",
+   "name": "あおぞら本舗 みたらしだんご120本入り",
+   "price": 4320,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qody9.ej4ef1bd.g00qody9.ej4eg168/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faozorahonpo%2F10000074%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/aozorahonpo/cabinet/10111371/mitarasi200.jpg?_ex=200x200",
+   "shop": "あおぞら本舗",
+   "review_avg": 4.73,
+   "review_count": 94
+  },
+  {
+   "rank": 23,
+   "code": "fukucha:10000787",
+   "name": "【最大20%OFF岡山クーポン対象】【予約10月20日から順次発送】訳あり モチリッシュ ドバイチョコ餅 ドバイチョコ ドバイ チョコ 生チョコ ギフト 大福 もち 濃厚 ガナッシュ ピスタチオ 求肥 羽二重餅 餅 和菓子 洋菓子 お取り寄せ 冷凍 大容量 プチギフト ご褒美 ふくちゃ",
+   "price": 3990,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rayy9.ej4efd9a.g00rayy9.ej4egfdc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukucha%2Fmochiriche%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/fukucha/cabinet/2023/mochiriche/mochi_00.jpg?_ex=200x200",
+   "shop": "健康茶通販×ふくちゃ楽天市場店",
+   "review_avg": 4.76,
+   "review_count": 359
+  },
+  {
+   "rank": 24,
+   "code": "kasyou-morin:10000394",
+   "name": "ギフト スイーツ お菓子 送料無料 おしゃれ 高級 誕生日プレゼント 凛菓 ティラミス 詰め合わせ 抹茶スイーツ ほうじ茶 栗 黒胡麻 ケーキ 和菓子 瓶 お取り寄せスイーツ 人気 ランキング 誕生日スイーツ 出産 内祝い お返し 退職祝い お礼 贈り物 ソーシャルギフト",
+   "price": 3580,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzl9.ej4efd18.g00rrzl9.ej4eg638/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Ftiramisu-6%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kasyou-morin/cabinet/06855486/07563144/09185954/rinka-thum46812.jpg?_ex=200x200",
+   "shop": "Morin（もりん）",
+   "review_avg": 4.65,
+   "review_count": 1251
+  },
+  {
+   "rank": 25,
+   "code": "globalgarden:10000466",
+   "name": "アメリカ産 生 クルミ LHP 1kg 無塩 無油 保存料無添加 ナッツ チャック付き保存袋 メール便 送料無料 生ナッツ ポイント消化",
+   "price": 1650,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s0if9.ej4effef.g00s0if9.ej4eg5e3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fglobalgarden%2F10000415%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/globalgarden/cabinet/syouhinpage/nuts/dai1armoundkurumi/amerika1kg-dai1-t.jpg?_ex=200x200",
+   "shop": "GLOBAL GARDEN",
+   "review_avg": 4.44,
+   "review_count": 202
+  },
+  {
+   "rank": 26,
+   "code": "rl-waffle:10000033",
+   "name": "＼ ～10/12 ポイント10倍 ／ 秋ギフト ワッフル ケーキ 10個 | お菓子 洋菓子 詰め合わせ ギフト 個包装 ワッフルケーキ スイーツ 冷凍 お取り寄せスイーツ 女性 彼女 妻 母 誕生日プレゼント ワッフルサンド かわいい おしゃれ 手土産 3000円 送料無料 セット",
+   "price": 3000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pq4w9.ej4ef311.g00pq4w9.ej4eg623/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frl-waffle%2Fw0010%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rl-waffle/cabinet/600_kyoutu/11706881/imgrc0120426801.jpg?_ex=200x200",
+   "shop": "ワッフル・ケーキの店R．L",
+   "review_avg": 4.56,
+   "review_count": 7001
+  },
+  {
+   "rank": 27,
+   "code": "calinuts:10000297",
+   "name": "アメリカ産ピーナッツ入り4種ミックスナッツ 1kg ハイオレイックピーナッツ アーモンド 生くるみ カシューナッツ 落花生 素焼き 無塩 たんぱく質 ミネラル ハイオレイン 添加物不使用 おつまみ おやつ チャック付き",
+   "price": 1650,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zr9.ej4efdcb.g00s4zr9.ej4ege18/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2Fhipn-4mix-1kg%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/promotion/original-main/260623-hipn4mx-1kg-r.jpg?_ex=200x200",
+   "shop": "calinuts",
+   "review_avg": 4.63,
+   "review_count": 2253
+  },
+  {
+   "rank": 28,
+   "code": "maisondumiel:10000009",
+   "name": "《TVで紹介されました》マカダミア キャラメルサンド 5個入・10個入 ◆ チョコレート 焼き菓子 ナッツ ギフト スイーツ 高級 個包装 クッキー お取り寄せ 洋菓子 プレゼント サブレ 詰め合わせ",
+   "price": 2680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u17a9.ej4ef810.g00u17a9.ej4eg5e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaisondumiel%2Fcaramelsand5%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/maisondumiel/cabinet/cr/kago/caramelsand_kago_01.jpg?_ex=200x200",
+   "shop": "maison du miel",
+   "review_avg": 4.72,
+   "review_count": 3067
+  },
+  {
+   "rank": 29,
+   "code": "nuthyougo:10000028",
+   "name": "デーツ 1kg 送料無料　無農薬 高品質なイラン産デーツ使用　種なしデーツ　ドライフルーツ　おやつ　【無添加・無塩・無植物油】",
+   "price": 1330,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00trts9.ej4efb00.g00trts9.ej4eg66a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuthyougo%2Fitem019%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/nuthyougo/cabinet/item019-05.jpg?_ex=200x200",
+   "shop": "NUT HYOUGO 商店",
+   "review_avg": 4.56,
+   "review_count": 3362
+  },
+  {
+   "rank": 30,
+   "code": "uosou:10000485",
+   "name": "いかそうめん いかそーめん イカ 珍味 するめそうめん するめそーめん スルメ 珍味 駄菓子 いか 業務用 訳あり メガ盛り 600g 送料無料 酒の肴 在宅 おつまみ 退職 在宅応援 家飲み 訳アリ 仕送り 業務用 メール便 ギフト 2026",
+   "price": 2698,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t2r19.ej4ef8e5.g00t2r19.ej4eg811/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuosou%2F23514%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/uosou/cabinet/08683157/soumen-ika600_thumb.jpg?_ex=200x200",
+   "shop": "おさかな問屋　魚奏　楽天市場店",
+   "review_avg": 4.68,
+   "review_count": 830
+  }
+ ]
+}
