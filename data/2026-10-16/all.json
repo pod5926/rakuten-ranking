@@ -1,0 +1,340 @@
+{
+ "genre": {
+  "slug": "all",
+  "id": 0,
+  "name": "総合"
+ },
+ "date": "2026-10-16",
+ "items": [
+  {
+   "rank": 1,
+   "code": "book:22132494",
+   "name": "【楽天ブックス限定先着特典】LEGEND (完全生産限定盤)(オリジナルスマホショルダー) [ ちゃんみな ]",
+   "price": 14999,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q0729.ej4ef0f3.g00q0729.ej4eg994/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18823978%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6811/4547366856811_1_2.jpg?_ex=200x200",
+   "shop": "楽天ブックス",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 2,
+   "code": "book:22132459",
+   "name": "EXPO　2025　大阪・関西万博公式　大屋根リングメモリアルセット ～みんなの万博～ジオラマ＆記念プレート付き～",
+   "price": 7920,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q0729.ej4ef0f3.g00q0729.ej4eg994/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18847500%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5661/9784099425661.gif?_ex=200x200",
+   "shop": "楽天ブックス",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 3,
+   "code": "darkangel:10036035",
+   "name": "79%OFF!【10/14 10時〜24H限定：830円〜1,790円！】【年間ランキング4位】 ルームウェア さらてろリブ セットアップ 上下セット 長袖 ウエストゴム ハイウエスト 腹巻 ワンマイルウェア 【秋さらルームウェア上下セット】ロングパンツ/半袖がページ内最安",
+   "price": 830,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q8qj9.ej4efd1e.g00q8qj9.ej4eg07b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdarkangel%2Fto2305-1114%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/darkangel/cabinet/12863863/10/1114-main-261013-1.jpg?_ex=200x200",
+   "shop": "Dark Angel （ダークエンジェル）",
+   "review_avg": 4.3,
+   "review_count": 20536
+  },
+  {
+   "rank": 4,
+   "code": "outletshoes:10017017",
+   "name": "【10/14 20時再販】 【新色発売】 送料無料 【はあちゅう×welleg】 スニーカー ROOMコラボ スリッポン レディース ハンズフリー 手を使わずに履ける 立ったまま履ける 痛くない 反射材 ウォーキングシューズ ママ メンズ 旅行 レジャー おでかけ 5営業日以内に発送",
+   "price": 5999,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pqge9.ej4efd1a.g00pqge9.ej4egc7f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutletshoes%2F65015%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/outletshoes/cabinet/fw26sn/65015-001.jpg?_ex=200x200",
+   "shop": "welleg from アウトレットシューズ",
+   "review_avg": 4.52,
+   "review_count": 1624
+  },
+  {
+   "rank": 5,
+   "code": "kouragumi:10001520",
+   "name": "今夜23:59まで楽天カードでP5倍★お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】【国産無塩小中型のみ入荷次第発送】",
+   "price": 2490,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77t9.ej4ef5e4.g00r77t9.ej4eg557/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997850.jpg?_ex=200x200",
+   "shop": "越前かに職人甲羅組（DENSHOKU）",
+   "review_avg": 4.51,
+   "review_count": 19877
+  },
+  {
+   "rank": 6,
+   "code": "e-kurashi:10048736",
+   "name": "コロ脚 中が透けない 壁付き チェスト スリム/ワイド 幅34/54 奥行41.5/41.7 高さ66.1/86.1/106.1cm 衣装ケース 収納ケース プラスチック 引き出し 洗面所 収納 子供部屋 クローゼット 隠す収納 ランドリーチェスト 壁付きチェスト 日本製 【送料無料】",
+   "price": 4999,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pui99.ej4ef14f.g00pui99.ej4egc2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fs1u57%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/rank-img/021/main-xaedt-01.jpg?_ex=200x200",
+   "shop": "くらしのeショップ",
+   "review_avg": 4.42,
+   "review_count": 6734
+  },
+  {
+   "rank": 7,
+   "code": "rakutenoriginal-daily:10000000",
+   "name": "【枚数限定1,000円ポッキリクーポン発行中！】水 500ml×24本 天然水 ラベルレス ミネラルウォーター 飲料水 まとめ買い 安い 業務用 家庭用 大容量 オフィス コスパ最強 熱中症対策　500ml 24本",
+   "price": 1310,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uqzr9.ej4efb39.g00uqzr9.ej4eg894/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-b-001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-001_2610_00.jpg?_ex=200x200",
+   "shop": "楽天オリジナル",
+   "review_avg": 4.69,
+   "review_count": 2212
+  },
+  {
+   "rank": 8,
+   "code": "rakutenoriginal-daily:10000001",
+   "name": "【枚数限定 300円オフクーポン発行中！】炭酸水 500ml×24本 [プレーン ソーダ ラベルレス 割り材 炭酸飲料 スパークリング 炭酸] まとめ買い 水 業務用 家庭用 大容量 オフィス ハイボール用 宅飲み　500ml 24本",
+   "price": 1450,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uqzr9.ej4efb39.g00uqzr9.ej4eg894/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenoriginal-daily%2Fro-b-002%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenoriginal-daily/cabinet/item/water/ro-b-002_2610_00.jpg?_ex=200x200",
+   "shop": "楽天オリジナル",
+   "review_avg": 4.6,
+   "review_count": 2261
+  },
+  {
+   "rank": 9,
+   "code": "book:22063673",
+   "name": "【楽天ブックス限定配送BOX】【楽天ブックス限定先着特典】JOY 2 (初回生産限定盤)(スマホショルダー) [ 山下達郎 ]",
+   "price": 6900,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q0729.ej4ef0f3.g00q0729.ej4eg994/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18761189%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4160/2100015134160_1_2.jpg?_ex=200x200",
+   "shop": "楽天ブックス",
+   "review_avg": 4.87,
+   "review_count": 15
+  },
+  {
+   "rank": 10,
+   "code": "darkangel:10034443",
+   "name": "65%OFF!【10/14 10時〜24H限定：1,370円〜1,990円！】【楽天一位】パンツ ワイドパンツ レディース 秋 ストレッチ ワイドパンツ ズボン 美脚 ゆったり スウェット 通勤 部屋着 きれいめ 大きいサイズ 体型カバー 選べる丈 デニム風/長めM/ブラックがページ内最安",
+   "price": 1370,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q8qj9.ej4efd1e.g00q8qj9.ej4eg07b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdarkangel%2Fpa2010-2536%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/darkangel/cabinet/12863863/10/2536-main-261014-1.jpg?_ex=200x200",
+   "shop": "Dark Angel （ダークエンジェル）",
+   "review_avg": 4.14,
+   "review_count": 49432
+  },
+  {
+   "rank": 11,
+   "code": "kanidokoro:10001780",
+   "name": "【総合ランキング1位獲得★】福袋おせち◆高級おせちを含む56種のおせちのいずれかをお届け【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖",
+   "price": 12345,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0t9.ej4ef351.g00rf0t9.ej4egf2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F428%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/428/428_r_26thum_00.jpg?_ex=200x200",
+   "shop": "海鮮かに処",
+   "review_avg": 4.42,
+   "review_count": 51493
+  },
+  {
+   "rank": 12,
+   "code": "lifedrinkcompany:10000022",
+   "name": "【10/15限定！店内全品10％OFFクーポン】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+   "price": 2450,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tkn49.ej4ef7dc.g00tkn49.ej4egfd1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifedrinkcompany%2Fzaosoda-500-48%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/lifedrinkcompany/cabinet/08451052/13980182/peach48_1014.jpg?_ex=200x200",
+   "shop": "LIFEDRINKオンラインストア",
+   "review_avg": 4.66,
+   "review_count": 18037
+  },
+  {
+   "rank": 13,
+   "code": "teamo:10001200",
+   "name": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+   "price": 1986,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ram09.ej4efe75.g00ram09.ej4eg99d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fteamo%2Fpure_clear_1%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/teamo/cabinet/2026/clear/1day_clear2box_tm.jpg?_ex=200x200",
+   "shop": "コンタクトレンズのTeAmo",
+   "review_avg": 4.56,
+   "review_count": 15061
+  },
+  {
+   "rank": 14,
+   "code": "stylife:15915838",
+   "name": "sanrio house 【gelato pique】【ONLINE限定カラーあり】【LADIES】ベビモコジャガードプルオーバー&ロングパンツセット サンリオ ハウス 靴下・レッグウェア 靴下【送料無料】",
+   "price": 17490,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rf719.ej4ef7ea.g00rf719.ej4egcba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fta7645%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/stylife/cabinet/item/645/ta7645-05_1.jpg?_ex=200x200",
+   "shop": "Rakuten Fashion",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 15,
+   "code": "t-interior:10000256",
+   "name": "[28h限定]15%OFFクーポン10/14 20時～ NERUS ふわとろ毛布 Air AirPremium 【正規品】 毛布 ブランケット もこもこ毛布 モコモコ とろとろ ふわふわ シングル セミダブル ダブル ハーフ ふわもこ ふわとろ ポコポコ ひざ掛け 6層 厚手 秋冬 Branchpoint",
+   "price": 2980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u9h59.ej4ef429.g00u9h59.ej4egdab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fhtc50%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/t-interior/cabinet/item/usual/htc50_a.jpg?_ex=200x200",
+   "shop": "Branchpoint ブランチポイント",
+   "review_avg": 4.73,
+   "review_count": 3771
+  },
+  {
+   "rank": 16,
+   "code": "superdeal:10004729",
+   "name": "マイクロソフト Office Home ＆ Business 2024【おひとり様5枚限り】",
+   "price": 43980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t81x9.ej4ef1e7.g00t81x9.ej4egfb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F14068mshomebiz2410%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/10528769/11189057/imgrc0330528455.jpg?_ex=200x200",
+   "shop": "楽天スーパーDEALSHOP",
+   "review_avg": 4.8,
+   "review_count": 740
+  },
+  {
+   "rank": 17,
+   "code": "furumiyashop:10000146",
+   "name": "【クーポン利用で最安2280円】楽天1位26冠！モバイルバッテリー 大容量 23600mAh PD22.5W 急速充電 Type-C出入力 4本ケーブル内蔵 軽量 iphone スマホ充電器 携帯充電器 タイプc対応 残量表示 LEDライト 防災グッズ PSE認証済 Lightning iPhone/Android全機種対応",
+   "price": 2980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tzq99.ej4ef37a.g00tzq99.ej4eg1e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffurumiyashop%2Fcdb00p60%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/furumiyashop/cabinet/zt/p60-2280.jpg?_ex=200x200",
+   "shop": "古宮shop",
+   "review_avg": 4.51,
+   "review_count": 6591
+  },
+  {
+   "rank": 18,
+   "code": "rakkenshop:10000114",
+   "name": "【楽券_eギフト】吉野家 1,000円",
+   "price": 1000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u4q99.ej4ef157.g00u4q99.ej4eg009/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakkenshop%2Frakken_131-230%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakkenshop/cabinet/10345128/11099758/imgrc0095158810.jpg?_ex=200x200",
+   "shop": "楽券ショップ",
+   "review_avg": 3.99,
+   "review_count": 96
+  },
+  {
+   "rank": 19,
+   "code": "imokuniya:10000012",
+   "name": "【20％OFFで2990円⇒2392円】 芋國屋 干し芋 訳あり 1kg 国産 無添加 紅はるか 干しいも 切り落とし ダイエット おやつ お菓子 和菓子 さつまいも 送料無料 ギフト スイーツ 茨城県産 N1",
+   "price": 2392,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tzq19.ej4efdca.g00tzq19.ej4eg606/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimokuniya%2F10000012%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/imokuniya/cabinet/08486723/tb3/1014_jtb_n1.jpg?_ex=200x200",
+   "shop": "芋國屋",
+   "review_avg": 4.56,
+   "review_count": 37192
+  },
+  {
+   "rank": 20,
+   "code": "bungushop:10335149",
+   "name": "【送料無料】サンスター文具 ボンボンドロップシール churukira サンリオキャラクターズ S8815429 ハローキティ レッド / S8815461 ポムポムプリン / S8815470 シナモロール / S8815488 クロミ / S8815496 はぴだんぷい チュルキラ 立体シール ぷっくり 透明感 キラキラ",
+   "price": 780,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00re0f9.ej4efaed.g00re0f9.ej4egefb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbungushop%2Fs8815437%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bungushop/cabinet/next10000/s8815437.jpg?_ex=200x200",
+   "shop": "ブングショップ",
+   "review_avg": 3.0,
+   "review_count": 4
+  },
+  {
+   "rank": 21,
+   "code": "pricon:10003151",
+   "name": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
+   "price": 14780,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qvpk9.ej4ef232.g00qvpk9.ej4egded/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fk_jj_oa90z0_02_h%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/pricon/cabinet/coupon/jj_oa90_02_1000.jpg?_ex=200x200",
+   "shop": "アットレンズ",
+   "review_avg": 4.76,
+   "review_count": 833
+  },
+  {
+   "rank": 22,
+   "code": "book:22095438",
+   "name": "ゼルダの伝説 時のオカリナ",
+   "price": 7768,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q0729.ej4ef0f3.g00q0729.ej4eg994/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18805198%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922.jpg?_ex=200x200",
+   "shop": "楽天ブックス",
+   "review_avg": 5.0,
+   "review_count": 2
+  },
+  {
+   "rank": 23,
+   "code": "darkangel:10035877",
+   "name": "44%OFF【期間限定：3,790円→2,090円！】イージー コクーンパンツ レディース ボトム パンツ カーブパンツ チノパンツ バレルレッグ 通年 フランネル 裏起毛 春 夏 秋 冬 低身長 高身長 ウエストゴム 洗濯可【 イージーコクーンパンツ】",
+   "price": 2090,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q8qj9.ej4efd1e.g00q8qj9.ej4eg07b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdarkangel%2Fpa2301-3635%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/darkangel/cabinet/12863863/10/10-1/3635-main-261014-1.jpg?_ex=200x200",
+   "shop": "Dark Angel （ダークエンジェル）",
+   "review_avg": 4.27,
+   "review_count": 5441
+  },
+  {
+   "rank": 24,
+   "code": "stylife:15915844",
+   "name": "sanrio house 【gelato pique】【ONLINE限定カラーあり】【LADIES】ベビモコジャガードプルオーバー&ショートパンツセット サンリオ ハウス 靴下・レッグウェア 靴下【送料無料】",
+   "price": 16940,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rf719.ej4ef7ea.g00rf719.ej4egcba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fta7646%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/stylife/cabinet/item/646/ta7646-05_1.jpg?_ex=200x200",
+   "shop": "Rakuten Fashion",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 25,
+   "code": "superdeal:10004731",
+   "name": "マイクロソフト Office Home 2024【おひとり様5枚限り】",
+   "price": 41360,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t81x9.ej4ef1e7.g00t81x9.ej4egfb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F14070mshome2410%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/10528769/11189057/imgrc0330528459.jpg?_ex=200x200",
+   "shop": "楽天スーパーDEALSHOP",
+   "review_avg": 4.74,
+   "review_count": 936
+  },
+  {
+   "rank": 26,
+   "code": "superdeal:10006079",
+   "name": "Motorola モトローラ SIMフリースマートフォン motorola edge 60 pro 12GB/256GB 125W TurboPowerチャージャー同梱",
+   "price": 84800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t81x9.ej4ef1e7.g00t81x9.ej4egfb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F15338edge60pro2506%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/11661997/12053655/imgrc0332094173.jpg?_ex=200x200",
+   "shop": "楽天スーパーDEALSHOP",
+   "review_avg": 4.67,
+   "review_count": 209
+  },
+  {
+   "rank": 27,
+   "code": "candymagic:10000575",
+   "name": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
+   "price": 3432,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qssm9.ej4ef5bd.g00qssm9.ej4eg05f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcandymagic%2Frv-100%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/candymagic/cabinet/revia/t_rv1d_26_3s_co_01r.jpg?_ex=200x200",
+   "shop": "キャンディーマジック　楽天市場店",
+   "review_avg": 4.72,
+   "review_count": 30492
+  },
+  {
+   "rank": 28,
+   "code": "netbaby:10028506",
+   "name": "【1種類を選べる】マミーポコパンツ 大きめで長〜く使える オムツ M L BIG(3個)【マミーポコパンツ】",
+   "price": 5721,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd49.ej4ef208.g00pzd49.ej4eg31f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/272/404272.jpg?_ex=200x200",
+   "shop": "楽天24 ベビー館",
+   "review_avg": 4.79,
+   "review_count": 8818
+  },
+  {
+   "rank": 29,
+   "code": "enterb:10000100",
+   "name": "クーポンで最安2,384円~！★2025年楽天年間1位受賞★【新色登場】スマートウォッチ 通話機能付 1.96インチ大画面 Bluetooth5.4最新型 24時間健康管理 皮膚温変動検知 血中酸素度 心拍数測定 IP68防水 長時間待機 着信通知 GPS運動記録 多機能 腕時計",
+   "price": 2980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ty4n9.ej4ef4d0.g00ty4n9.ej4egf08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenterb%2Fnexmate-1%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/enterb/cabinet/event/url1/nexmate--2384.jpg?_ex=200x200",
+   "shop": "Enterbox",
+   "review_avg": 4.4,
+   "review_count": 39172
+  },
+  {
+   "rank": 30,
+   "code": "darkangel:10036320",
+   "name": "60%OFF!【期間限定：1,499円〜2,499円！】パンツ レディース フレアパンツ 秋冬 きれいめ レギンスパンツ ダンボールニット ポケット付き ストレッチ 美脚 脚長 体型カバー 細見え 選べる丈【美脚見えフレアレギパン】ライトリブ/普通/M/ブラックがページ内最安",
+   "price": 1499,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q8qj9.ej4efd1e.g00q8qj9.ej4eg07b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdarkangel%2Fpa2311-3843%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/darkangel/cabinet/12863863/13830759/3843-main-260910.jpg?_ex=200x200",
+   "shop": "Dark Angel （ダークエンジェル）",
+   "review_avg": 4.15,
+   "review_count": 4029
+  }
+ ]
+}
