@@ -1,0 +1,340 @@
+{
+ "genre": {
+  "slug": "pc",
+  "id": 100026,
+  "name": "パソコン・周辺機器"
+ },
+ "date": "2026-10-24",
+ "items": [
+  {
+   "rank": 1,
+   "code": "d-shop1one:10242786",
+   "name": "バッファロー Wi-Fi 6(11ax)対応Wi-Fiルーター 2401+573Mbps AirStation WSR-3000AX4L BUFFALO【転送不可】",
+   "price": 8880,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rtgf9.ej4ef35f.g00rtgf9.ej4eg51b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-shop1one%2F4981254077016%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/point4/4981254077016.jpg?_ex=200x200",
+   "shop": "ディーショップワン",
+   "review_avg": 5.0,
+   "review_count": 1
+  },
+  {
+   "rank": 2,
+   "code": "officetrust:10000181",
+   "name": "コピー用紙 A4 5000枚(500枚×10冊)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラル プロデジ高品質 保存箱仕様 PEFC認証 用紙 OA用紙 印刷用紙 無地《商品到着後、レビュー書いて次回使えるクーポンプレゼント》『送料無料（一部地域除く）』",
+   "price": 3899,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i99.ej4ef605.g00u1i99.ej4egeaa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014000%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_1n8.jpg?_ex=200x200",
+   "shop": "オフィストラスト",
+   "review_avg": 4.75,
+   "review_count": 4112
+  },
+  {
+   "rank": 3,
+   "code": "cuticle:10035097",
+   "name": "富士通 FMVA75K3SA ノートパソコン FMV Note Aシリーズ A75-K3 ファインシルバー FMVA75K3SA",
+   "price": 9532,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rtv79.ej4ef694.g00rtv79.ej4eg0c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcuticle%2F4570105180465%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cuticle/cabinet/kaden/x-0/x-33/4570105180465_0.jpg?_ex=200x200",
+   "shop": "Cuticle Style 楽天市場店",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 4,
+   "code": "upc1114:10002905",
+   "name": "レビュー投稿 5年保証｜MS Office 2024 H&B 搭載｜中古ノートパソコン Windows11 Core i5 第8世代 メモリ 8GB SSD 256GB FHD 1,920×1,080 WEBカメラ テンキー DVD 搭載｜店長厳選 Dynabook 15.6型 Bluetooth HDMI Wi-Fi｜中古 パソコン 中古PC Office付き",
+   "price": 29800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sx4o9.ej4ef390.g00sx4o9.ej4ege81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fupc1114%2Fcorei5-sale%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/upc1114/cabinet/10717283/10717549/imgrc0120486871.jpg?_ex=200x200",
+   "shop": "中古パソコン　遼南商店",
+   "review_avg": 4.53,
+   "review_count": 5303
+  },
+  {
+   "rank": 5,
+   "code": "winkstore:10041982",
+   "name": "BUFFALO　無線LANルーター　AirStation WSR-3000AX4L [ブラック]",
+   "price": 9000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s0br9.ej4efffc.g00s0br9.ej4egcf6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwinkstore%2F275132%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/winkstore/cabinet/275500/275132.jpg?_ex=200x200",
+   "shop": "ウインクデジタル　楽天市場店",
+   "review_avg": 4.67,
+   "review_count": 3
+  },
+  {
+   "rank": 6,
+   "code": "cosmo-plaza:10000000",
+   "name": "バッファロー WiFi ルーター WSR-3000AX4P Wi-Fi6 無線LAN IPv6対応 BUFFALO 無線ルーター 最強 WiFi6 AirStation ワイファイ Wi-Fi 無線ラン 親機 WSR-3000AX4P/DBK テレワーク オンライン スマホ スマートフォン タブレット",
+   "price": 9980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00urrs9.ej4ef474.g00urrs9.ej4egca9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmo-plaza%2Fr-4981254070482%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cosmo-plaza/cabinet/main_1.jpg?_ex=200x200",
+   "shop": "CosmoPlaza",
+   "review_avg": 4.53,
+   "review_count": 102
+  },
+  {
+   "rank": 7,
+   "code": "yorozuyasan-reiwa:10000001",
+   "name": "楽天ランキング1位★三年保証 新品 ノートパソコン パソコン Office付き Windows11搭載 14/15.6インチ型ワイド液晶フルHD 第14世代CPU intel N3450 Core i5 i7 メモリ8GB~32GB SSD128GB~1TB WEBカメラ テンキー付き 大容量 大画面 zoom軽量 初心者向け",
+   "price": 34680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ur0f9.ej4ef8bd.g00ur0f9.ej4eg957/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyorozuyasan-reiwa%2Fyypc01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yorozuyasan-reiwa/cabinet/12260710/12260711/13366065/01.jpg?_ex=200x200",
+   "shop": "コバヤシ 楽天市場店",
+   "review_avg": 4.4,
+   "review_count": 270
+  },
+  {
+   "rank": 8,
+   "code": "e-cutestyle:19799864",
+   "name": "★バッファロー AirStation Wi-Fi 6(11ax)対応Wi-Fiルーター 2401+573Mbps WSR-3000AX4L [ブラック]【無線LANルーター(Wi-Fiルーター)】【送料無料】",
+   "price": 9200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rd009.ej4ef840.g00rd009.ej4egb5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-cutestyle%2Fp000000984429%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-cutestyle/cabinet/img056/p000000984429_1.jpg?_ex=200x200",
+   "shop": "ディーライズ2号店",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 9,
+   "code": "d-shop1one:10239877",
+   "name": "バッファロー 無線LANルーター Wi-Fi6対応 2401+573Mbps WSR-3000AX4P/DBK ブラック BUFFALO【転送不可】",
+   "price": 9880,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rtgf9.ej4ef35f.g00rtgf9.ej4eg51b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-shop1one%2F4981254070482%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/poin2/4981254070482.jpg?_ex=200x200",
+   "shop": "ディーショップワン",
+   "review_avg": 4.65,
+   "review_count": 79
+  },
+  {
+   "rank": 10,
+   "code": "eightworld:10000003",
+   "name": "ノートパソコン office付き 14型 パソコン Windows11 14.1/15.6インチ 第15世代CPU搭載(Core Ultra 7-255H) 2026新品 15.6型ワイド液晶 フルHD Intel Celeron N3450 TwinLake N150 Core i3 i5 i7 i9 メモリ6~32GB 新品SSD 128GB 2TB NVMe USB3.0 HDMI 日本語配列キーボード",
+   "price": 33800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uum09.ej4ef19c.g00uum09.ej4egc92/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feightworld%2Fpasokon-t01-2%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/eightworld/cabinet/product/pasokon-t01/pasokon-t01-2-1.jpg?_ex=200x200",
+   "shop": "E-World パソコン専門店",
+   "review_avg": 4.5,
+   "review_count": 4
+  },
+  {
+   "rank": 11,
+   "code": "cuticle:10040521",
+   "name": "マイクロソフト ノートパソコン Surface Laptop 13 インチ EP282092 プラチナ Snapdragon X Plus/8/256",
+   "price": 62840,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rtv79.ej4ef694.g00rtv79.ej4eg0c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcuticle%2F4549576295886%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cuticle/cabinet/kaden/x-0/x-43/4549576295886_0.jpg?_ex=200x200",
+   "shop": "Cuticle Style 楽天市場店",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 12,
+   "code": "sanwadirect:10098306",
+   "name": "【楽天1位受賞】指紋認証リーダー USB パソコン PC用 USB接続 Windows Hello Windows11 10対応 指紋 10件登録",
+   "price": 5280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pmmb9.ej4efa69.g00pmmb9.ej4egff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-fprd1%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/4/400-fprd1.jpg?_ex=200x200",
+   "shop": "サンワダイレクト楽天市場店",
+   "review_avg": 4.49,
+   "review_count": 95
+  },
+  {
+   "rank": 13,
+   "code": "cuticle:10035103",
+   "name": "富士通 FMVA53K3BA ノートパソコン FMV Note A シリーズA53-K3 ブライトブラック FMVA53K3BA",
+   "price": 4023,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rtv79.ej4ef694.g00rtv79.ej4eg0c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcuticle%2F4570105180489%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cuticle/cabinet/kaden/x-0/x-33/4570105180489_0.jpg?_ex=200x200",
+   "shop": "Cuticle Style 楽天市場店",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 14,
+   "code": "cuticle:10036014",
+   "name": "富士通 ノートPC FMV Note U FMVU77K3WA 14型 WUXGA Core Ultra 7 16GB 512GB Windows 11 Home Office OP付 シルバー",
+   "price": 31340,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rtv79.ej4ef694.g00rtv79.ej4eg0c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcuticle%2F4570105180595%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cuticle/cabinet/kaden/x-0/x-36/4570105180595_0.jpg?_ex=200x200",
+   "shop": "Cuticle Style 楽天市場店",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 15,
+   "code": "cuticle:10040560",
+   "name": "ASUS ノートパソコン Zenbook SORA 16 (UX3607QA) UX3607QA-PU16570BE メモリ16GB SSD512GB ザブリスキーベージュ",
+   "price": 31189,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rtv79.ej4ef694.g00rtv79.ej4eg0c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcuticle%2F0199291599284%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cuticle/cabinet/kaden/x-0/x-32/0199291599284_0.jpg?_ex=200x200",
+   "shop": "Cuticle Style 楽天市場店",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 16,
+   "code": "starfocus:10002278",
+   "name": "SDカードリーダー iPhone18 対応 2TB 写真 動画 バックアップ データ 移行 保存 外付け USBメモリ 専用アプリ不要 スマホ Type-C Lightning ライトニング タイプC Android iPad 日本語取説付 1年保証 スターフォーカス正規品[2025楽天年間1位]",
+   "price": 3580,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz09.ej4ef0e1.g00ruz09.ej4egc4f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fi-flash-device-hd%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sp/s-cardreader/cardreader_slide-01.jpg?_ex=200x200",
+   "shop": "スマホメモリ専門スターフォーカス",
+   "review_avg": 4.47,
+   "review_count": 56261
+  },
+  {
+   "rank": 17,
+   "code": "pcshop-best:10000139",
+   "name": "【最短即日発送】＼3年保証＆ランキング1位／ バッファロー ルーター wifi6 IPv6 無線LAN WiFi 無線LANルーター 無線親機 無線ルーター 楽天ひかり ソフトバンク光 二階建て BUFFALO Wi-Fi WiFiルーター WSR-3000AX4L WSR3600BE4P-BK wifi6対応 Wi-Fi7",
+   "price": 7480,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uh379.ej4efa72.g00uh379.ej4egd77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcshop-best%2F002-0001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/compass1731286828.jpg?_ex=200x200",
+   "shop": "and pc（PC SHOP BEST）楽天市場店",
+   "review_avg": 4.66,
+   "review_count": 1862
+  },
+  {
+   "rank": 18,
+   "code": "officetrust:10000209",
+   "name": "『最安挑戦』コピー用紙 A4 2500枚(500枚×5冊)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラル プロデジ高品質 保存箱仕様 PEFC認証《商品到着後、レビュー書いて次回使えるクーポンプレゼント》『送料無料（一部地域除く）』",
+   "price": 2169,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i99.ej4ef605.g00u1i99.ej4egeaa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014001_1n2.jpg?_ex=200x200",
+   "shop": "オフィストラスト",
+   "review_avg": 4.7,
+   "review_count": 943
+  },
+  {
+   "rank": 19,
+   "code": "directplus:10003507",
+   "name": "【HP大決算祭り ～10/27 （火） 9:59まで】【HP公式】ノートパソコン office選択可 新品 軽量 薄型 HP OmniBook 7 Aero 13-bg 13.3インチ Windows11 Copilot+PC AMD Ryzen AI5 340 16GB 512GB IPS 1年保証 転送不可 (型番: BF8H3PA/BF8H4PA)",
+   "price": 133900,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r4lk9.ej4ef3f2.g00r4lk9.ej4eg223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdirectplus%2Fomnibook-713-bg-rai516%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/directplus/cabinet/note/omnibook-7-aero/ob7aero-ai516-s-p1.jpg?_ex=200x200",
+   "shop": "HP Directplus楽天市場店",
+   "review_avg": 4.78,
+   "review_count": 112
+  },
+  {
+   "rank": 20,
+   "code": "officetrust:10000232",
+   "name": "『最安挑戦』コピー用紙 A4 5000枚(2500枚×2箱)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラル プロデジ高品質 保存箱仕様 PEFC認証 用紙 OA用紙 印刷用紙 無地《商品到着後、レビュー書いて次回使えるクーポンプレゼント》『送料無料（一部地域除く）』",
+   "price": 3919,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i99.ej4ef605.g00u1i99.ej4egeaa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014002%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014002_1n4.jpg?_ex=200x200",
+   "shop": "オフィストラスト",
+   "review_avg": 4.77,
+   "review_count": 1064
+  },
+  {
+   "rank": 21,
+   "code": "etre:10052856",
+   "name": "バッファロー BUFFALO Wi-Fiルーター WSR3600BE4P/DBK [Wi-Fi7 (11be)対応 デュアルバンド 無線LANルーター 2882+688Mbps]",
+   "price": 13280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pztm9.ej4ef1b9.g00pztm9.ej4eg428/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fetre%2F1290719%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/etre/cabinet/itemimage34/1290719.jpg?_ex=200x200",
+   "shop": "イートレンド楽天市場店",
+   "review_avg": 4.43,
+   "review_count": 90
+  },
+  {
+   "rank": 22,
+   "code": "case-by-case:10002065",
+   "name": "楽天1位P3倍【2本目半額】最新チップ 急速 PD 15-100w タイプc 充電 ケーブル iphone 急速 充電器 タイプcケーブル usb type-c ケーブル Lightning ライトニングケーブル usb-c 急速充電 コード 充電コード usbケーブル アイフォンケーブル usbc iPhone18 1m 2m 充電器iPhone",
+   "price": 1000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rgnw9.ej4efab6.g00rgnw9.ej4eg3da/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcase-by-case%2F1000%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/case-by-case/cabinet/08655288/10418282/10793930/imgrc0081848715.jpg?_ex=200x200",
+   "shop": "ケースbyケース",
+   "review_avg": 4.55,
+   "review_count": 15174
+  },
+  {
+   "rank": 23,
+   "code": "rcmdse:16154599",
+   "name": "シュレッダー A4 家庭用 クロスカット 静音 ホッチキス カード可 6枚細断 コンパクト 電動 同時細断 事務 パーソナルシュレッダー simplus シンプラス SP-SRD01【送料無料】【メーカー1年保証】【レビュー報告でメンテナンスシート】",
+   "price": 3999,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ramc9.ej4ef6b2.g00ramc9.ej4eg5e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Foa-4589668468804%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/oa01/oa-4589668468804.jpg?_ex=200x200",
+   "shop": "リコメン堂生活館",
+   "review_avg": 4.32,
+   "review_count": 574
+  },
+  {
+   "rank": 24,
+   "code": "nttxstore:10003445",
+   "name": "【送料無料】 エプソン A4カラーインクジェット複合機/Colorio/4色/無線LAN/Wi-Fi Direct EW-056A",
+   "price": 8479,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rwjt9.ej4efc98.g00rwjt9.ej4egbf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnttxstore%2Fqzx0026932%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/nttxstore/cabinet/qzx0026932.jpg?_ex=200x200",
+   "shop": "OCNオンラインショップ 楽天市場店",
+   "review_avg": 4.23,
+   "review_count": 60
+  },
+  {
+   "rank": 25,
+   "code": "irisplaza-r:10092931",
+   "name": "[エントリーでポイント最大10倍/スタンプラリー]＼★楽天1位常連★／シュレッダー 電動シュレッダー 裁断機 家庭用 業務用 オフィス 電動 コンパクト 黒 ブラック 小型 最大10枚 同時細断 一括処理 A4 クロスカット ホチキス 5枚同時裁断 パーソナル P5GCX2 P10GC",
+   "price": 3999,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zt9.ej4efb71.g00t3zt9.ej4eg3c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F562091%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12113165/imgrc0117000731.jpg?_ex=200x200",
+   "shop": "アイリスオーヤマ公式 楽天市場店",
+   "review_avg": 4.35,
+   "review_count": 300
+  },
+  {
+   "rank": 26,
+   "code": "eightworld:10000074",
+   "name": "ノートパソコン 15.6型 パソコン office付き Windows11 15.6インチ インテル コア ワイド液晶 フルHD Intel Core i3-6100U｜i5-6200U ｜i7-6500U メモリ8~32GB 新品SSD 128GB 2TB NVMe PCIe 3.0 4.0 USB3.0 HDMI 日本語配列キーボード",
+   "price": 65800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uum09.ej4ef19c.g00uum09.ej4egc92/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feightworld%2Fpasokon-t12%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/eightworld/cabinet/product/pasokon-t12/pasokon-t12-8.jpg?_ex=200x200",
+   "shop": "E-World パソコン専門店",
+   "review_avg": 4.33,
+   "review_count": 3
+  },
+  {
+   "rank": 27,
+   "code": "eightworld:10000011",
+   "name": "デスクトップPC デスクトップ パソコン Office付きビジネス 第15世代 intel Core Ultra5 225 corei7 corei5 Windows11 SSD 128GB 512GB 1TB 2TB メモリ8GB 16GB 32GB 64GB 2年保証 安い 激安 オフィス業務 事務作業 デスクワーク 動画視聴 おしゃれ 本体のみ",
+   "price": 42700,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uum09.ej4ef19c.g00uum09.ej4egc92/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feightworld%2Fdesktoppc-c12-c%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/eightworld/cabinet/product/desktoppc-c12/desktoppc-c12-4.jpg?_ex=200x200",
+   "shop": "E-World パソコン専門店",
+   "review_avg": 4.67,
+   "review_count": 3
+  },
+  {
+   "rank": 28,
+   "code": "pc-shop-pro:10000031",
+   "name": "【楽天ランキング1位受賞】アースドリームス 厳選おまかせモニター 21.5型〜27型ワイド 【HDMI対応 / FULL HD解像度】 大手メーカー液晶 (Dell/HP/NEC等) テレワーク デュアルモニター Switch PS4 PS5対応 【整備済み中古品】",
+   "price": 6470,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tr0y9.ej4ef560.g00tr0y9.ej4egb71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpc-shop-pro%2Fmo-22-hdmi%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/pc-shop-pro/cabinet/07939066/07939068/imgrc0099631912.jpg?_ex=200x200",
+   "shop": "アースドリームス",
+   "review_avg": 4.46,
+   "review_count": 297
+  },
+  {
+   "rank": 29,
+   "code": "etre:10026945",
+   "name": "バッファロー HD-NRLDシリーズ 2TB/4TB/6TB/8TB [USB3.1/USB3.0/USB2.0 外付けハードディスク 外付けHDD PC用＆TV録画用 静音＆防振＆放熱設計 日本製]",
+   "price": 18980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pztm9.ej4ef1b9.g00pztm9.ej4eg428/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fetre%2F1180435%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/etre/cabinet/itemimage35/imgrc0101269078.jpg?_ex=200x200",
+   "shop": "イートレンド楽天市場店",
+   "review_avg": 4.51,
+   "review_count": 1553
+  },
+  {
+   "rank": 30,
+   "code": "cuticle:10038465",
+   "name": "富士通 ノートパソコン 16.0型 Win11Home Ryzen AI7 メモリ16GB SSD512GB Officeオプション付 FMVA79L1BA コールブラック A79-L1",
+   "price": 17895,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rtv79.ej4ef694.g00rtv79.ej4eg0c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcuticle%2F4570105181431%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cuticle/cabinet/kaden/x-0/x-37/4570105181431_0.jpg?_ex=200x200",
+   "shop": "Cuticle Style 楽天市場店",
+   "review_avg": 0.0,
+   "review_count": 0
+  }
+ ]
+}
