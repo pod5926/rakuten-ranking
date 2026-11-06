@@ -1,0 +1,340 @@
+{
+ "genre": {
+  "slug": "food",
+  "id": 100227,
+  "name": "食品"
+ },
+ "date": "2026-11-06",
+ "items": [
+  {
+   "rank": 1,
+   "code": "ringerhut:10000331",
+   "name": "S【衝撃の25％OFF！5,200→3,900円！】 リンガーハット 長崎ちゃんぽん 8食 チャンポン 冷凍 簡単 調理 仕送り 麺 スープ セット 国産野菜100％ チャンポン麺 具材 惣菜 具 取り寄せ 非常食 ギフト グルメ",
+   "price": 3900,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qc3c9.ej4ef89c.g00qc3c9.ej4eg8f3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringerhut%2Fc128%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0190428692.jpg?_ex=200x200",
+   "shop": "リンガーハット楽天市場店",
+   "review_avg": 4.72,
+   "review_count": 3978
+  },
+  {
+   "rank": 2,
+   "code": "yamagoiida:10000077",
+   "name": "【11日01:59まで半額！最大4,990円OFF】〈無塩〉 骨取りさば 北欧産 訳あり （選べる1kg・2kg）｜骨なし 骨抜き 鯖 天然 ノルウェー産 イギリス産 冷凍 ストック 業務用 食品 離乳食 お弁当 プロテイン DHA EPA 一部地域除き 送料無料　常備食",
+   "price": 3490,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd59.ej4efe43.g00tqd59.ej4egf94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000077%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/08906716/09064251/img_2026_08_001_50.jpg?_ex=200x200",
+   "shop": "骨取り魚の飯田商店",
+   "review_avg": 4.78,
+   "review_count": 38331
+  },
+  {
+   "rank": 3,
+   "code": "matsuya:10000085",
+   "name": "S【衝撃の58％OFF！1食208円~！】 牛めしの具（プレミアム仕様）135g 30食 選択制 牛めし 大容量リピ確定BOX 松屋 公式 牛丼の具 まつや 牛丼 送料無料 おかず 惣菜 業務用 防災食 防災 備蓄 ローリングストック 日常備蓄 セール 半額",
+   "price": 2740,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pwdg9.ej4ef182.g00pwdg9.ej4egfd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuya%2Fus30%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/matsuya/cabinet/wakama/14093074/14157823/2611mt_sale_thm.jpg?_ex=200x200",
+   "shop": "松屋フーズ",
+   "review_avg": 4.63,
+   "review_count": 14196
+  },
+  {
+   "rank": 4,
+   "code": "exception5251:10000794",
+   "name": "即納【一等米】 コシヒカリ 新米 ランキング1位 令和8年産5kg 10kg 徳島県産 単一原料米 白米 米 お米 国産 家庭用 大容量 定食 ご飯 粘り ふっくら ex-x01028",
+   "price": 2940,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uaej9.ej4ef5f0.g00uaej9.ej4egafd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexception5251%2Fex-x01028%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11219687/main_image/ex-x01028_a_1.jpg?_ex=200x200",
+   "shop": "EXCEPTION本店",
+   "review_avg": 4.65,
+   "review_count": 1163
+  },
+  {
+   "rank": 5,
+   "code": "kanidokoro:10001780",
+   "name": "おせち 福袋 2027 3〜4人前以上保証 高級おせちを含む56種から1種をお届け 冷蔵 送料無料 予約 お節料理【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖",
+   "price": 12345,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0t9.ej4ef351.g00rf0t9.ej4egf2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F428%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/428/428_r_26thum_00.jpg?_ex=200x200",
+   "shop": "海鮮かに処",
+   "review_avg": 4.42,
+   "review_count": 51712
+  },
+  {
+   "rank": 6,
+   "code": "yamagoiida:10000148",
+   "name": "【11日01:59まで半額！最大6,490円OFF】〈無塩〉骨取り銀さけ 訳あり 鮭（選べる1kg・2kg）｜骨取り鮭 骨なし チリ産 養殖 鮭 さけ サケ 銀鮭 厚切り 切身 冷凍 ストック 業務用 食品 離乳食 お弁当 アスタキサンチン 一部地域除き 送料無料",
+   "price": 3990,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd59.ej4efe43.g00tqd59.ej4egf94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000120%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/12604244/13204764/13204768/ginsake_thum002.jpg?_ex=200x200",
+   "shop": "骨取り魚の飯田商店",
+   "review_avg": 4.8,
+   "review_count": 6353
+  },
+  {
+   "rank": 7,
+   "code": "kouragumi:10001520",
+   "name": "今夜23:59まで楽天カードでP5倍以上★お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】",
+   "price": 2490,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77t9.ej4ef5e4.g00r77t9.ej4eg557/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997850.jpg?_ex=200x200",
+   "shop": "越前かに職人甲羅組（DENSHOKU）",
+   "review_avg": 4.51,
+   "review_count": 20302
+  },
+  {
+   "rank": 8,
+   "code": "marutengroup:10000021",
+   "name": "11日(水)01:59まで★29％OFFクーポンで2,982円！更に2個で35％OFF！ 楽天総合1位獲得 豚まん 10個入 国産豚肉 淡路島産玉ねぎ レンジで簡単 時短 冷凍 朝食 夜食 軽食 仕送り 冷凍ストック 保存料無添加 バナナマンの早起きせっかくグルメで紹介 お取り寄せ ウァン 送料無料",
+   "price": 4200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u4ab9.ej4efb1c.g00u4ab9.ej4eg671/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarutengroup%2Fut-1-10%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/marutengroup/cabinet/butaman/ut110re29top2608.jpg?_ex=200x200",
+   "shop": "まる天　楽天市場店",
+   "review_avg": 4.59,
+   "review_count": 1713
+  },
+  {
+   "rank": 9,
+   "code": "yama-oatmeal-institute:10000024",
+   "name": "「クーポン利用で10kg3,580円」 令和8年産 70％以上使用 国産 ブレンド米 極味精米 5kg 10kg 20kg ( きわみせいまい こめ お米 米 白米 全国 送料無料 （北海道 沖縄 離島含む） ブレンド米 安い 生活応援米 備蓄米 不使用 10キロ 5キロ ) 山川食糧",
+   "price": 2420,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uhmz9.ej4ef868.g00uhmz9.ej4eg2d8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyama-oatmeal-institute%2Fkiwamiseimai10%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yama-oatmeal-institute/cabinet/13044696/imgrc0134554784.jpg?_ex=200x200",
+   "shop": "山川食糧オートミール研究所",
+   "review_avg": 4.48,
+   "review_count": 6595
+  },
+  {
+   "rank": 10,
+   "code": "kouragumi:10001552",
+   "name": "今夜23:59まで楽天カードでP5倍以上★お試し送料無料2,990円～「有塩or無塩」「骨ありor骨なし」が選べる！【骨あり有塩は11/9以降発送】【骨取り有塩は11/16以降発送】⇒脂のり抜群の銀鮭 切り身 業務用 1kg お試し お中元 ギフト プレゼント 【P】",
+   "price": 2990,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77t9.ej4ef5e4.g00r77t9.ej4eg557/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F210069%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997933.jpg?_ex=200x200",
+   "shop": "越前かに職人甲羅組（DENSHOKU）",
+   "review_avg": 4.63,
+   "review_count": 5605
+  },
+  {
+   "rank": 11,
+   "code": "kumamoto-food:10003339",
+   "name": "【クーポンで20kg⇒6,860円】令和8年産75％以上使用 米 令和8年産 無洗米 白米 選べる 5kg 10kg 20kg 40kg 新米75％使用 ブレンド米 銘柄米 コシヒカリ 森のくまさん ヒノヒカリ お米 国産 送料無料 雑穀米付 防災 備蓄 お買い物マラソン ≪配送予定に記載の日程でお届け≫",
+   "price": 2280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qovc9.ej4efd24.g00qovc9.ej4eg42b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkumamoto-food%2F10003339%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kumamoto-food/cabinet/00954548/kome/furusatomusen/imgrc0122721798.jpg?_ex=200x200",
+   "shop": "【　くまもと風土　】",
+   "review_avg": 4.41,
+   "review_count": 818
+  },
+  {
+   "rank": 12,
+   "code": "gyouzakan:10000533",
+   "name": "【700円OFFクーポン有!】 mami×ぎょうざ館コラボ 無添加餃子 96個 ROOMコラボ 楽天限定 餃子 ぎょうざ 冷凍餃子 にんにくあり48個 にんにくなし48個 16人前 中華 冷凍 冷凍食品 惣菜 おかず お取り寄せ 大容量 まとめ買い 子供 プレゼント ギョウザ ギョーザ 通販",
+   "price": 3850,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00puur9.ej4efcc3.g00puur9.ej4egf42/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgyouzakan%2Fmutenka-set%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/gyouzakan/cabinet/imgrc0095679906.jpg?_ex=200x200",
+   "shop": "美食点心ぎょうざ館",
+   "review_avg": 4.23,
+   "review_count": 831
+  },
+  {
+   "rank": 13,
+   "code": "tarunoaji:10000405",
+   "name": "＼31％オフ！／塩昆布 無添加 化学調味料不使用『3袋セット塩昆布』【メール便1通2セットまで】メール便専用 塩こんぶ しおこんぶ 贈り物 食べ物 ギフト お取り寄せ 食品 グルメ 樽の味 人気 おすすめ　時短",
+   "price": 2280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rk7c9.ej4efd2f.g00rk7c9.ej4egf13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftarunoaji%2Fshio-konbu_03%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/tarunoaji/cabinet/09865524/09865537/31konbu.jpg?_ex=200x200",
+   "shop": "自然の食材と発酵で健幸に 樽の味",
+   "review_avg": 4.58,
+   "review_count": 1603
+  },
+  {
+   "rank": 14,
+   "code": "kouragumi:10000367",
+   "name": "今夜23:59まで楽天カードでP10倍以上★値上げ前に！【年末早得】3箱で1箱タダ★5,400円OFFクーポンで総重量2.4kg送料無料10,800円！楽天年間ランキング5年連続1位！お刺身OK！カット生ずわい蟹600g/総重量800g かに 蟹 カニ ズワイガニ ギフト お歳暮 【P】",
+   "price": 5400,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77t9.ej4ef5e4.g00r77t9.ej4eg557/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F100005%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0127249456.jpg?_ex=200x200",
+   "shop": "越前かに職人甲羅組（DENSHOKU）",
+   "review_avg": 4.36,
+   "review_count": 22001
+  },
+  {
+   "rank": 15,
+   "code": "maguronoyamashita:10000001",
+   "name": "【49%OFFクーポン★11日(水)01:59まで】2,480円⇒1,265円！5セット購入で700gおまけ付 100g×17Pの総量1.7kgが6,325円！ねぎとろ丼1杯あたり373円♪複数購入で最大おまけ7パック!![ねぎとろ 200g 100g×2パック] 天然まぐろ冷凍 個包装 静岡県",
+   "price": 2480,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uf099.ej4efc3e.g00uf099.ej4egbb6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaguronoyamashita%2F10000001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/maguronoyamashita/cabinet/event/49off/49offcp_b_thum.jpg?_ex=200x200",
+   "shop": "まぐろのヤマシタ",
+   "review_avg": 4.63,
+   "review_count": 3634
+  },
+  {
+   "rank": 16,
+   "code": "yamagoiida:10000149",
+   "name": "【11日正午まで半額！最大6,490円OFF】〈有塩〉骨取り銀さけ 訳あり 鮭 （選べる1kg・2kg）｜骨なし チリ産 養殖 さけ 銀鮭 厚切り 切身 冷凍 ストック 業務用 食品 離乳食 お弁当 プロテイン アスタキサンチン 一部地域除き 送料無料",
+   "price": 3990,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd59.ej4efe43.g00tqd59.ej4egf94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000121%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/12604244/13204764/13204769/ginsake_thum005.jpg?_ex=200x200",
+   "shop": "骨取り魚の飯田商店",
+   "review_avg": 4.81,
+   "review_count": 2228
+  },
+  {
+   "rank": 17,
+   "code": "omuraisu-n:10000000",
+   "name": "【49%OFFクーポン★5,998円⇒3,059円】11/11(水)01:59まで 絶品オムライス210g×8袋 オムライス 仕送り 冷凍 冷凍食品 惣菜 夏休み 子供 電子レンジ 時短 レンチン ランチ 洋食 おかず ストック 仕送り 買い置き 置きオム オムレツ 簡単 便利 夕食",
+   "price": 5998,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uomo9.ej4ef821.g00uomo9.ej4eg64c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fomuraisu-n%2Fomeletrice8%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/omuraisu-n/cabinet/event/2606mt2/2607mt1_o49_thum.jpg?_ex=200x200",
+   "shop": "オムライスの西川",
+   "review_avg": 4.51,
+   "review_count": 1662
+  },
+  {
+   "rank": 18,
+   "code": "irisplaza-r:10170526",
+   "name": "＼5kgあたり約2,427円～！☆彡／【令和8年産100％使用】白米 無洗米 和の輝き ブレンド米 10kg (5kg×2袋) 15kg (5kg×3袋) 密封新鮮パック 脱酸素剤入り 米 お米 国産 10キロ 15キロ 低温製法米 送料無料 アイリスオーヤマ",
+   "price": 4980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zt9.ej4efb71.g00t3zt9.ej4eg3c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/11073544/13743939/113800_00.jpg?_ex=200x200",
+   "shop": "アイリスオーヤマ公式 楽天市場店",
+   "review_avg": 4.71,
+   "review_count": 9343
+  },
+  {
+   "rank": 19,
+   "code": "sonoshokuan:10000006",
+   "name": "今夜23:59まで楽天カードでP5倍以上★お試し送料無料1,000円～ 国産 焼き海苔 選べる⇒【1】宮城県七ヶ浜産全型15枚【2】有明産一番摘み全型20枚 【3】有明産訳あり全型30枚 【4】国産(産地指定不可)訳あり/全型40枚【5】有明産味付海苔8切160枚【P】 お歳暮",
+   "price": 1000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u0et9.ej4ef9bf.g00u0et9.ej4eg5b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsonoshokuan%2F300006%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/sonoshokuan/cabinet/item/dry-food/imgrc0099317303.jpg?_ex=200x200",
+   "shop": "祖の食庵",
+   "review_avg": 4.3,
+   "review_count": 16134
+  },
+  {
+   "rank": 20,
+   "code": "kumamoto-food:10004089",
+   "name": "【11/4 20時より★クーポンで1セットが777円】みかん 訳あり 1.2kg 送料無料 甘熟みかん 熊本県産 小玉 不選別 家庭用 規格外 柑橘 ミカン 熊本 2セット以上でおまけ増量 楽天お買い物マラソン《11月中旬-12月上旬に出荷予定（土日祝除）》",
+   "price": 888,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qovc9.ej4efd24.g00qovc9.ej4eg42b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkumamoto-food%2F10003935%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kumamoto-food/cabinet/item/mikan/mikan001/r_26km001_06c.jpg?_ex=200x200",
+   "shop": "【　くまもと風土　】",
+   "review_avg": 4.22,
+   "review_count": 3781
+  },
+  {
+   "rank": 21,
+   "code": "masuyone:10000016",
+   "name": "本日23:59までP3倍★最大11倍以上！値上げ前に年末早割★6000円OFFクーポンで8960円〜送料無料＼2025年一番売れたカニ／ 選べる カニ 福袋最大3kg！メガ盛元祖カット済生ずわい蟹 生棒ポーション 爪肩肉3kg カニ刺し むき身 ズワイガニ カニしゃぶ プレゼント お歳暮 ギフト",
+   "price": 14960,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pmn59.ej4ef238.g00pmn59.ej4ega28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmasuyone%2F130007%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/goods/08472711/imgrc0123959992.jpg?_ex=200x200",
+   "shop": "越前かに問屋「ますよね」",
+   "review_avg": 4.32,
+   "review_count": 46739
+  },
+  {
+   "rank": 22,
+   "code": "yamagoiida:10000084",
+   "name": "【11日正午まで半額！最大4,990円OFF】〈有塩〉 骨取りさば 北欧産 訳あり（選べる1kg・2kg）｜骨なし 骨抜き 鯖 天然 ノルウェー産 イギリス産 冷凍 ストック 業務用 食品 離乳食 お弁当 プロテイン DHA EPA 一部地域除き 送料無料",
+   "price": 3490,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd59.ej4efe43.g00tqd59.ej4egf94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000084%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/08906716/img_2026_08_002_50.jpg?_ex=200x200",
+   "shop": "骨取り魚の飯田商店",
+   "review_avg": 4.77,
+   "review_count": 16981
+  },
+  {
+   "rank": 23,
+   "code": "kyunan:10000248",
+   "name": "＼タマチャン周年祭セール／1000円→777円！ 国産 雑穀米「三十雑穀」タマチャンショップの30雑穀米 1000円ポッキリ 送料無料 1日30品目の栄養を実現 もち麦 国産 大麦 丁寧な暮らし タマチャンショップ 酵素玄米 食物繊維 タンパク質 国産100%",
+   "price": 777,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00pwf89.ej4ef031.g00pwf89.ej4eg72d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyunan%2F20grain%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kyunan/cabinet/zakkokuspecial/sannjyukokumai/imgrc0098196195.jpg?_ex=200x200",
+   "shop": "タマチャンショップ",
+   "review_avg": 4.5,
+   "review_count": 82975
+  },
+  {
+   "rank": 24,
+   "code": "kouragumi:10000855",
+   "name": "今夜23:59まで楽天カードでP5倍以上★お試し送料無料2,999円！背ワタ無し♪希少な特大むきえび1kg（解凍後800g） お中元 ギフト プレゼント 【P】",
+   "price": 2999,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77t9.ej4ef5e4.g00r77t9.ej4eg557/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200109%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997849.jpg?_ex=200x200",
+   "shop": "越前かに職人甲羅組（DENSHOKU）",
+   "review_avg": 4.69,
+   "review_count": 8134
+  },
+  {
+   "rank": 25,
+   "code": "kouragumi:10001886",
+   "name": "今夜23:59まで楽天カードでP5倍以上★半額クーポンで9,980円⇒送料無料4,990円！更に2個で55%OFFクーポン有！お刺身OK！生ずわいがに プレミアム太脚 ポーション500g ギフト プレゼント 【P半】",
+   "price": 9980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77t9.ej4ef5e4.g00r77t9.ej4eg557/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F111206%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0128856705.jpg?_ex=200x200",
+   "shop": "越前かに職人甲羅組（DENSHOKU）",
+   "review_avg": 3.54,
+   "review_count": 13
+  },
+  {
+   "rank": 26,
+   "code": "has:10000485",
+   "name": "決算フェアで特別価格！【メール便送料無料】粉なっとう[あらびき] 84g 小さじ1杯に納豆10パック分の納豆菌が生きているサプリメント/納豆キナーゼ/ポリアミン/食物繊維#四国阿波はすや",
+   "price": 1350,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00puvj9.ej4ef4f0.g00puvj9.ej4eg8c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhas%2F504823%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/has/cabinet/kn/tmn/b_6.jpg?_ex=200x200",
+   "shop": "粉なっとう・粉末納豆の「はすや」",
+   "review_avg": 4.59,
+   "review_count": 1405
+  },
+  {
+   "rank": 27,
+   "code": "has:10001083",
+   "name": "総合ランキング1位【メール便 送料無料】粉なっとう[あらびき] 84g まるで腸内エステ!トイレで出る出る!小さじ1杯に納豆10パック分の納豆菌粉納豆 納豆　なっとう #はすや",
+   "price": 2700,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00puvj9.ej4ef4f0.g00puvj9.ej4eg8c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhas%2Ff60-ad2%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/has/cabinet/kn/tmn/c_2.jpg?_ex=200x200",
+   "shop": "粉なっとう・粉末納豆の「はすや」",
+   "review_avg": 4.55,
+   "review_count": 7032
+  },
+  {
+   "rank": 28,
+   "code": "kouragumi:10001895",
+   "name": "今夜23:59まで楽天カードでP5倍以上★半額クーポンで5,980円⇒送料無料2,990円！大粒シーフードミックス4種盛り1kg（解凍後800g）食べ放題！",
+   "price": 5980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77t9.ej4ef5e4.g00r77t9.ej4eg557/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200121%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0131596852.jpg?_ex=200x200",
+   "shop": "越前かに職人甲羅組（DENSHOKU）",
+   "review_avg": 4.67,
+   "review_count": 66
+  },
+  {
+   "rank": 29,
+   "code": "sunshine-osaka:10000071",
+   "name": "【50％OFFクーポンご利用で3,980円】【ショップ・ザ・イヤー2024 受賞】【月間約120万個完売】60％以上えび（具）海老 エビ えび 一龍堂 餃子 ぎょうざ ギョウザ ギョーザ えび餃子 海老餃子 冷凍 生餃子 冷凍餃子 鮮度抜群 ぷりぷり",
+   "price": 7960,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00te3h9.ej4ef463.g00te3h9.ej4eg1b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunshine-osaka%2Febi-01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/sunshine-osaka/cabinet/09337950/ebi100samuneru02.jpg?_ex=200x200",
+   "shop": "一龍堂",
+   "review_avg": 4.58,
+   "review_count": 2090
+  },
+  {
+   "rank": 30,
+   "code": "kouragumi:10001783",
+   "name": "今夜23:59まで楽天カードでP5倍以上★半額クーポンで16,980円⇒送料無料8,490円！更に2個で55％OFF！ボイルor生が選べる！⇒希少な超特大サイズたらばがに足センターカット1kg（解凍後800g）【P半】",
+   "price": 16980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77t9.ej4ef5e4.g00r77t9.ej4eg557/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F100162%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0116231775.jpg?_ex=200x200",
+   "shop": "越前かに職人甲羅組（DENSHOKU）",
+   "review_avg": 4.21,
+   "review_count": 339
+  }
+ ]
+}
