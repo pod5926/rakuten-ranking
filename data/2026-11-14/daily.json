@@ -1,0 +1,340 @@
+{
+ "genre": {
+  "slug": "daily",
+  "id": 215783,
+  "name": "日用品雑貨・文房具"
+ },
+ "date": "2026-11-14",
+ "items": [
+  {
+   "rank": 1,
+   "code": "bos-shop:10000067",
+   "name": "【うんちが臭わないトイレ】BOS非常用臭わないトイレセット(4点セット・50回分) 災害/携帯/簡易トイレ/防災グッズ/15年保存 ◆防臭 防菌◆ 臭わない袋BOS付き 【排泄臭の根本解決はBOSだけ】",
+   "price": 5500,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sok09.ej4ef0f5.g00sok09.ej4ega86/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbos-shop%2Fbos-0646%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/saigai/hijyou-common2/imgrc0090015937.jpg?_ex=200x200",
+   "shop": "BOS-SHOP",
+   "review_avg": 4.69,
+   "review_count": 316
+  },
+  {
+   "rank": 2,
+   "code": "cococimo:10001693",
+   "name": "【最新版】デカ暖III イワタニ カセットガス9本付き 小型 軽量 防災用品 防災グッズ 停電 緊急用 災害用 送料無料 ユーキャン通販 デカダン ガスストーブ 暖房 暖房器具 暖房機 カセットガスストーブ ガス Iwatani でかだん でか暖 デカ暖3",
+   "price": 24800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rxwy9.ej4ef659.g00rxwy9.ej4egf8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcococimo%2Fdmt%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cococimo/cabinet/kaden/dmt/dmt_1.jpg?_ex=200x200",
+   "shop": "ユーキャン通販公式 楽天市場店",
+   "review_avg": 4.4,
+   "review_count": 251
+  },
+  {
+   "rank": 3,
+   "code": "bos-shop:10000070",
+   "name": "【うんちが臭わないトイレ】 BOS非常用臭わないトイレセット(4点セット・100回分) 災害/携帯/簡易トイレ/防災グッズ/15年保存 ◆防臭 防菌◆ 臭わない袋BOS付き 【排泄臭の根本解決はBOSだけ】",
+   "price": 9770,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sok09.ej4ef0f5.g00sok09.ej4ega86/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbos-shop%2Fbos-0653%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/saigai/hijyou-common2/imgrc0090513235.jpg?_ex=200x200",
+   "shop": "BOS-SHOP",
+   "review_avg": 4.72,
+   "review_count": 235
+  },
+  {
+   "rank": 4,
+   "code": "pykespeak:10002322",
+   "name": "＼総合ランキング1位獲得／ 簡易トイレ 非常用トイレ 災害用 携帯トイレ 防災 防災グッズ 非常用簡易トイレ 災害 災害用品 ポータブルトイレ 凝固剤付 排便袋付 防災トイレ 備蓄 車用 台風 避難グッズ 地震対策グッズ",
+   "price": 3980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sulx9.ej4efda4.g00sulx9.ej4ege5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpykespeak%2Fp0244%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/pykespeak/cabinet/top/p0244_top_0228-7r-4b.jpg?_ex=200x200",
+   "shop": "PYKES PEAK Direct",
+   "review_avg": 4.43,
+   "review_count": 1372
+  },
+  {
+   "rank": 5,
+   "code": "h2brothers:10001880",
+   "name": "【P5倍UP★防臭袋全回数分付き★日本防災安全協会認証品】簡易トイレ 非常用トイレ 防災グッズ 防災 非常用簡易トイレ 携帯トイレ 災害用トイレ 20〜600回 15年保存 凝固剤 ONESTEP",
+   "price": 1180,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sk3q9.ej4ef5e3.g00sk3q9.ej4eg665/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fportabletoilet01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/medical/portabletoilet01r4.jpg?_ex=200x200",
+   "shop": "ONE STEP",
+   "review_avg": 4.56,
+   "review_count": 10901
+  },
+  {
+   "rank": 6,
+   "code": "world-free-store-2:10000867",
+   "name": "【予約 11月下旬～出荷予定】ボンボンドロップシール くまのがっこう ムーミン おさわり探偵 なめこ栽培キット ぷっくり つやつや 立体 シール サンスター文具 シール ステッカー ♪キャラクターシール♪ 代引不可商品",
+   "price": 770,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uik49.ej4ef39a.g00uik49.ej4eg818/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworld-free-store-2%2Fbonbon6%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/world-free-store-2/cabinet/13681385/imgrc0214105650.jpg?_ex=200x200",
+   "shop": "ミルキーウェイ",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 7,
+   "code": "prime-brain:10000071",
+   "name": "【高吸収だから少量で固まる】 防災グッズ 非常用 簡易トイレ 携帯トイレ スープ 凝固剤 たっぷり吸う太郎 810g 粉末 日本製 消臭 15年保存 ※凝固剤のみ | 防災 災害 断水 地震対策 介護 車中泊 ポータブルトイレ カップ麺 残り汁 処理 プライム製薬",
+   "price": 6980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00um7p9.ej4ef287.g00um7p9.ej4eg81c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprime-brain%2F01altl_sutaro%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/prime-brain/cabinet/12028134/01altl_sutaro/sutaro_thum_9.jpg?_ex=200x200",
+   "shop": "プライム製薬",
+   "review_avg": 4.56,
+   "review_count": 303
+  },
+  {
+   "rank": 8,
+   "code": "r1-shop:10000062",
+   "name": "「楽天総合1位」「半永久保存 防災士監修」簡易トイレ 非常用トイレセット 防災用品 防災グッズ 防災セット 50+10回分 非常用簡易トイレ 防臭袋 アウトドア 介護用 防災 携帯トイレ 台風 洪水 災害時 断水時 簡単使用 長期保存",
+   "price": 3680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ue8b9.ej4efce8.g00ue8b9.ej4eg8c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr1-shop%2Fcsd-2%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/09975530/09975535/csdgai/zt.jpg?_ex=200x200",
+   "shop": "RONE_SHOP",
+   "review_avg": 4.5,
+   "review_count": 7719
+  },
+  {
+   "rank": 9,
+   "code": "trinity-cosme:10000431",
+   "name": "【楽天1位★最安1箱あたり790円】ニトリル手袋 100枚 200枚 300枚 400枚 600枚 1000枚 2000枚 3000枚 4000枚 ゴム手袋 使い捨て ニトリルグローブ 食品衛生適合 パウダーフリー SS S M L LL サイズ 粉なし 伸縮性 破れにくい 業務用 家庭 介護 検品用 調理用 白 青 黒 ohte",
+   "price": 890,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tz979.ej4ef0aa.g00tz979.ej4eg41a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftrinity-cosme%2Fsan350532x1%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/trinity-cosme/cabinet/09165139/09165140/imgrc0121539105.jpg?_ex=200x200",
+   "shop": "TRINITY COSME.",
+   "review_avg": 4.7,
+   "review_count": 1583
+  },
+  {
+   "rank": 10,
+   "code": "hiromifashionhouse:10005004",
+   "name": "【全回数20％OFFクーポン】楽天総合1位 簡易トイレ 非常用トイレセット 防災トイレ 防災備蓄 防災士監修 愛知県企業開発 凝固剤10g 抗菌消臭 専用硬紙箱 15年保存 20～500回分 防臭袋・便座カバー付 災害 断水 停電 防災用品 法人・大口購入OK",
+   "price": 1580,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u49f9.ej4ef6a0.g00u49f9.ej4eg0a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiromifashionhouse%2Fmkhrm60f%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0130480880.jpg?_ex=200x200",
+   "shop": "Hiromi Fashion House",
+   "review_avg": 4.51,
+   "review_count": 7308
+  },
+  {
+   "rank": 11,
+   "code": "auc-epsomsalt:10000222",
+   "name": "【公式】国産 エプソムソルト 10kg 大容量 無香料 シークリスタルス 入浴剤 化粧品 マグネシウム バスソルト 温活 計量スプーン付 中身が見える透明パック 1回150g 約66回分 累計レビュー1.2万件",
+   "price": 3800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r4ty9.ej4ef6a3.g00r4ty9.ej4eg29a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-epsomsalt%2Fesc-10kg%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-epsomsalt/cabinet/sma_original/101.jpg?_ex=200x200",
+   "shop": "美容と健康のエプソムソルト入浴",
+   "review_avg": 4.78,
+   "review_count": 1985
+  },
+  {
+   "rank": 12,
+   "code": "sawasei:10230379",
+   "name": "防災食 カゴメ 野菜たっぷりスープ 16食 SO-50 SO50 (賞味期限:2031/12/6以降) 送料無料 【 長期保存 】【_",
+   "price": 5280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r1tr9.ej4ef93d.g00r1tr9.ej4egd7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawasei%2Fs-190561034%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/sawasei/cabinet/brand/kagomeh/so50_00.jpg?_ex=200x200",
+   "shop": "Gift HARE　［ギフトハレ］",
+   "review_avg": 4.62,
+   "review_count": 269
+  },
+  {
+   "rank": 13,
+   "code": "fuji-store-mie:10000538",
+   "name": "★2026年最新型番★ 火災報知器 パナソニック 電池 けむり当番 SHK484551 SHK48455K後継品 熱 煙 煙式 火災警報器 リチウム電池 大音量 煙感知器 住宅用 panasonic ねつ当番 けむり ねつ 当番薄型 2種 電池式 単独型 薄型 小型 高機能 警報音",
+   "price": 2640,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uhzl9.ej4ef99c.g00uhzl9.ej4ege36/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuji-store-mie%2Fcompass1707101421%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/fuji-store-mie/cabinet/13181710/compass1784194526.jpg?_ex=200x200",
+   "shop": "くらしの園ショップ",
+   "review_avg": 4.76,
+   "review_count": 3302
+  },
+  {
+   "rank": 14,
+   "code": "penport:10074529",
+   "name": "ドラえもん ボンボンドロップシール シール ドラミ フェイス ひみつ道具 サンスター文具 かわいい 人気 おすすめ ボンドロ S8816654 S8816662 S8816670 S8816689",
+   "price": 680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r79j9.ej4eff00.g00r79j9.ej4egd1b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpenport%2Fss-174%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/penport/cabinet/08/ss-174_1.jpg?_ex=200x200",
+   "shop": "ペンポート",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 15,
+   "code": "tenkapas:10010258",
+   "name": "【毎日ずっと1位】 ニトリル手袋 100枚 200枚 300枚 400枚 500枚 1000枚 4000枚 ゴム手袋 使い捨て グローブ ニトリル 青 白 黒 ニトリル手袋 パウダーフリー 食品衛生法 医療 病院 ニトリルゴム手袋 SS S M L ニトリル 手袋 介護 手袋 作業 手袋 使い捨て 送料無料",
+   "price": 890,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qs3n9.ej4ef685.g00qs3n9.ej4eg0d8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenkapas%2Fglove001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/tenkapas/cabinet/item_image/item_health_beauty/sanitary-goods/glove001-2026.jpg?_ex=200x200",
+   "shop": "テンカ楽天市場店",
+   "review_avg": 4.57,
+   "review_count": 3849
+  },
+  {
+   "rank": 16,
+   "code": "stylife:15932105",
+   "name": "Francfranc 【数量限定】2026 クリスマス アドベントカレンダー M (24個入り) フランフラン ボディケア・オーラルケア 入浴剤【送料無料】",
+   "price": 5200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00rf719.ej4ef7ea.g00rf719.ej4egcba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Ftb1753%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/stylife/cabinet/item/753/tb1753-01_1.jpg?_ex=200x200",
+   "shop": "Rakuten Fashion",
+   "review_avg": 5.0,
+   "review_count": 2
+  },
+  {
+   "rank": 17,
+   "code": "bos-shop:10000148",
+   "name": "【BOS-SHOP限定】【うんちが臭わないトイレ】BOS非常用臭わない袋トイレセット(4点セット・100回分) 災害/携帯/簡易トイレ/防災グッズ/15年保存 ◆防臭 防菌◆ 臭わない袋付き",
+   "price": 8690,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sok09.ej4ef0f5.g00sok09.ej4ega86/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbos-shop%2Fbos-1353%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bos-shop/cabinet/09120421/khj_4set_100.jpg?_ex=200x200",
+   "shop": "BOS-SHOP",
+   "review_avg": 4.71,
+   "review_count": 546
+  },
+  {
+   "rank": 18,
+   "code": "fudanzukainoomise:10017229",
+   "name": "【10%OFFクーポン】【日本倉庫発送】圧縮できる防臭ゴミ袋 圧縮袋 防災圧縮袋 汚物密封 40*60cm 50*70cm 防災用 ゴミ 圧縮 トイレ用凝固剤 簡易トイレ 便 汚物 生ゴミ ごみ 廃棄物 臭い漏れ 軽減 臭わない 防災 災害用 避難用 防臭 悪臭対策 非常用 避難グッズ 地震 高密閉",
+   "price": 1280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u8xs9.ej4ef0a9.g00u8xs9.ej4eg3a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffudanzukainoomise%2Fsy0808gj6km%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/fudanzukainoomise/cabinet/xizhends_mover/fud0808019faykd/sy0808gj6km_01.jpg?_ex=200x200",
+   "shop": "Dulkiss",
+   "review_avg": 4.11,
+   "review_count": 47
+  },
+  {
+   "rank": 19,
+   "code": "wtw-cctv-camera:10000924",
+   "name": "現在4年連続1位 創業48年日本自社工場開発生産 みてるちゃん 500万 5GHz ベビーモニター 防犯カメラ Amazon国内サーバー自社契約 ペットカメラ 自動追跡 見守りカメラ ワイヤレス 屋内 監視カメラ 小型",
+   "price": 3280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qo779.ej4ef552.g00qo779.ej4eg0d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwtw-cctv-camera%2Fwtw-ipw108%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/wtw-cctv-camera/cabinet/ipcam/miteru/imgrc0196372625.jpg?_ex=200x200",
+   "shop": "WTW 塚本無線",
+   "review_avg": 4.49,
+   "review_count": 50307
+  },
+  {
+   "rank": 20,
+   "code": "akol:10000484",
+   "name": "保存水 備蓄水 10年保存水 1.8l 6本入 2ケース 12本 10年保存可能 防災 防災グッズ 非常時 災害 ミネラルウォーター 軟水 国産 海洋深層水 飲料水 非常食 地震 自然災害 法人 オフィス 学校 病院 自治体 災害備蓄",
+   "price": 3860,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q6ur9.ej4ef3b7.g00q6ur9.ej4eg46a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakol%2F1011801%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/akol/cabinet/06635893/07531328/imgrc0112807065.jpg?_ex=200x200",
+   "shop": "海洋深層水のアコール",
+   "review_avg": 4.75,
+   "review_count": 1385
+  },
+  {
+   "rank": 21,
+   "code": "dajie:10000000",
+   "name": "公式 スツーレ® 簡易トイレ 非常用トイレ 携帯トイレ 防災トイレ 折りたたみ 耐荷重100kg 排便袋＆凝固剤付き 軽量 2サイズ ポータブルトイレ 災害 防災 非常用 防災グッズ",
+   "price": 3380,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uki09.ej4efd6d.g00uki09.ej4eg6e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdajie%2Fstoole%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/dajie/cabinet/10598746/imgrc0114884020.jpg?_ex=200x200",
+   "shop": "スツーレ楽天市場店",
+   "review_avg": 4.63,
+   "review_count": 6820
+  },
+  {
+   "rank": 22,
+   "code": "protoolshop:10192793",
+   "name": "Iwatani カセットフー こんろ＆ストーブ「イザまる」 CB-IZ-1【カセットガスボンベ 付き/本体のみ】",
+   "price": 13000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tiz99.ej4ef954.g00tiz99.ej4eg838/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprotoolshop%2F4901140899027%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/protoolshop/cabinet/027/4901140899027-m01.jpg?_ex=200x200",
+   "shop": "Pro Tool Shop",
+   "review_avg": 4.25,
+   "review_count": 4
+  },
+  {
+   "rank": 23,
+   "code": "e-kit:10042884",
+   "name": "【※先着200枚※11/19限定全品半額クーポン】 ＼ 角型新登場 ／ ソープディスペンサー スクエア 自動 泡 液体 充電式 大容量 自動洗浄 オートソープディスペンサー 自動ソープディスペンサー ハンドソープ 洗剤 食器用洗剤 詰め替え USB充電 IPX5 防水 錆びにくい [CICADA]",
+   "price": 4990,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sw2c9.ej4efb96.g00sw2c9.ej4eg275/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kit%2Fek-sds%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kit/cabinet/description/ek-sds/ek-sds_1.jpg?_ex=200x200",
+   "shop": "e-kit（いーきっと）",
+   "review_avg": 4.44,
+   "review_count": 596
+  },
+  {
+   "rank": 24,
+   "code": "livingut:10201261",
+   "name": "【レビュー特典付き】 収納ケース 引き出し S M L 幅27cm 幅32cm クローゼットシステム ライクイット （ 収納 like-it クローゼット ライクイットクローゼットシステム 衣類収納 収納ボックス 衣装ケース プラスチック 洋服 日本製 ）",
+   "price": 3520,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q7289.ej4ef141.g00q7289.ej4ege8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2Funi284299%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_like_it3/uni284299.jpg?_ex=200x200",
+   "shop": "リビングート　楽天市場店",
+   "review_avg": 4.7,
+   "review_count": 3453
+  },
+  {
+   "rank": 25,
+   "code": "mtgec-beauty:10002177",
+   "name": "【ReFa 公式】リファ シャワーヘッド ファインバブル U プレゼント ギフト ReFa FINE BUBBLE U スキンケア うるおい 美肌 愛犬 節水 結婚 リファ公式店 【国内マーケットシェアNo.1】",
+   "price": 30000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r20g9.ej4ef1fd.g00r20g9.ej4eg6fa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F1579320101%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/mtgec-beauty/cabinet/refa/06277055/2026_refa_winter/imgrc0146453604.jpg?_ex=200x200",
+   "shop": "MTG ONLINESHOP",
+   "review_avg": 4.61,
+   "review_count": 1579
+  },
+  {
+   "rank": 26,
+   "code": "excitech:10000407",
+   "name": "簡易トイレ 【YouTube登録者数50万人の防災のプロが開発】 EXCITECH エキサイテック トイレの用心防 防災 トイレ 非常用トイレ ポータブルトイレ 携帯トイレ 60回セット 120回セット 15年保存 防災グッズ 災害用 緊急トイレ 災害用トイレ 災害用品",
+   "price": 3790,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00stve9.ej4ef50c.g00stve9.ej4eg54a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexcitech%2Fexci-potoilet-001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/excitech/cabinet/excitech/portabletoilet/emergencytoilet-th.jpg?_ex=200x200",
+   "shop": "いいねONLINE公式 楽天市場店",
+   "review_avg": 4.52,
+   "review_count": 244
+  },
+  {
+   "rank": 27,
+   "code": "coming:10000440",
+   "name": "最安値に挑戦!! ☆再生紙トイレット12RW☆108mm幅トイレットペーパー ダブル1ロール：27.5m 96ロール入り(1パック12ロール）無地 無印刷 送料無料",
+   "price": 3200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r7hc9.ej4ef9ae.g00r7hc9.ej4eg246/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fjun1kyuhinrolls-recycle12rw%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/coming/cabinet/daiichimoji/imgrc0096851285.jpg?_ex=200x200",
+   "shop": "カミングネット株式会社楽天市場店",
+   "review_avg": 4.59,
+   "review_count": 3726
+  },
+  {
+   "rank": 28,
+   "code": "toucher-home:10000264",
+   "name": "【20周年SALE 979円→特価890円】 【12月より価格改定】 日本製 ホテルスタイルタオル ビッグフェイスタオル 【圧縮】 【お試しSALE】 楽天1位受賞 / 約40×100cm タオル 小さめ バスタオル 厚手 吸水 1枚 メディア掲載 #バスタオルやめました",
+   "price": 890,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00qcmk9.ej4ef421.g00qcmk9.ej4eg9f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoucher-home%2F10000264%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/toucher-home/cabinet/image02/hslft_01sx.jpg?_ex=200x200",
+   "shop": "タオル直販店 ヒオリエ／日織恵",
+   "review_avg": 4.49,
+   "review_count": 118200
+  },
+  {
+   "rank": 29,
+   "code": "theworldstore:10003724",
+   "name": "【すきま風・冷気をしっかり遮断】隙間テープ ドア 窓 サッシ 引き戸用 PUフォーム ナイロンコート 幅 防寒 断熱 防音 結露対策 防虫 目隠し 異音対策 貼るだけ 玄関下部 室内外 エアコン冷暖房 節電対策 ポイント消化 プレゼント ギフト 人気 おすすめ 新生活 母の日 8・10m",
+   "price": 2360,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uwb99.ej4ef12b.g00uwb99.ej4eg1fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheworldstore%2Fppl-uushdbt-22%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/theworldstore/cabinet/pstar-8681/psg05-3/raiso3101.jpg?_ex=200x200",
+   "shop": "ザ・ワールドストア",
+   "review_avg": 0.0,
+   "review_count": 0
+  },
+  {
+   "rank": 30,
+   "code": "ogawahan:10002465",
+   "name": "【楽天ランキング入賞】シヤチハタ キャップレス9 印鑑 ネーム印 はんこ 全26色 名前入り スタンプ台不要 フタなし 浸透印 文具女子 個人印鑑 【送料無料】",
+   "price": 1200,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00q0209.ej4efb7d.g00q0209.ej4eg540/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fogawahan%2F10002465%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/ogawahan/cabinet/hituyou2/shachihata/new_capless9/imgrc0169389541.jpg?_ex=200x200",
+   "shop": "印鑑はんこ製造直売店＠小川祥雲堂",
+   "review_avg": 4.73,
+   "review_count": 28709
+  }
+ ]
+}
