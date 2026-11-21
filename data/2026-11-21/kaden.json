@@ -1,0 +1,340 @@
+{
+ "genre": {
+  "slug": "kaden",
+  "id": 562637,
+  "name": "家電"
+ },
+ "date": "2026-11-21",
+ "items": [
+  {
+   "rank": 1,
+   "code": "superdeal:10004835",
+   "name": "【レビュー特典】シャープ 加湿空気清浄機 KI-RS40-W プラズマクラスター25000 スリム コンパクト 空気清浄~18畳 / 加湿~12畳 花粉 消臭 PM2.5 ウイルス スピード循環気流",
+   "price": 27800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t81x9.ej4ef1e7.g00t81x9.ej4egfb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F14169kirs40w2408%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/12097676/12925080/13167540/2_14169kirs40w2408.jpg?_ex=200x200",
+   "shop": "楽天スーパーDEALSHOP",
+   "review_avg": 4.64,
+   "review_count": 476
+  },
+  {
+   "rank": 2,
+   "code": "exception5251:10000066",
+   "name": "【ランキング1位獲得】石英管ヒーター 電気ストーブ 足元 省エネ 即暖 2灯 ストーブ 電気ヒーター コンパクト 転倒オフ 小型 脱衣所 洗面 トイレ 暖房器具 リビング オフィス k-00012",
+   "price": 12480,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uaej9.ej4ef5f0.g00uaej9.ej4egafd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexception5251%2Fk-00012%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11219687/main_image/imgrc0115933928.jpg?_ex=200x200",
+   "shop": "EXCEPTION本店",
+   "review_avg": 4.49,
+   "review_count": 2127
+  },
+  {
+   "rank": 3,
+   "code": "auc-risecreation:10005478",
+   "name": "【3,000円OFF★11/25 23:59迄】 1年保証 [正規品].NiMore パネルヒーター コンベクターヒーター 1200W 800W 小型 足元 デスク下 暖房器具 勉強 省エネ 静音 リモコン タイマー付き 自動温度調節 チャ",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p39.ej4ef11d.g00s0p39.ej4eg97b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0902%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/r0902_top_ba.jpg?_ex=200x200",
+   "shop": "atRise（アットライズ）",
+   "review_avg": 4.33,
+   "review_count": 30
+  },
+  {
+   "rank": 4,
+   "code": "exception5251:10000489",
+   "name": "【楽天ランキング1位】SNS話題 大風量 ヘアドライヤー 速乾 ドライヤー マイナスイオン 2タイプ選べる 大風量 軽量 軽い 短時間 冷風 温度調節 静電気除去 低騒音 小型 旅行 速乾ドライヤー 高速ドライヤー 髪質改善 旅行用 1200W 美容師 o-00007",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uaej9.ej4ef5f0.g00uaej9.ej4egafd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexception5251%2Fo-00007%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11219687/main_image/ex-e01002.jpg?_ex=200x200",
+   "shop": "EXCEPTION本店",
+   "review_avg": 4.48,
+   "review_count": 1380
+  },
+  {
+   "rank": 5,
+   "code": "shark:10000421",
+   "name": "50％OFF セール 【Shark 公式】Shark シャーク EVOPOWER SYSTEM STD+ コードレススティッククリーナー 追加アクセサリー セット （ブラシ2種 ＋ プレシジョンダスター ） 公式オンラインストア限定 エヴォパワーシステムスタンダードプラス CS150JAE-SET3A /",
+   "price": 30250,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00toap9.ej4ef43b.g00toap9.ej4ega62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Fcs150jae-set3a%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/cs150jae_3s_50off.jpg?_ex=200x200",
+   "shop": "SharkNinja公式楽天市場店",
+   "review_avg": 4.51,
+   "review_count": 1559
+  },
+  {
+   "rank": 6,
+   "code": "auc-risecreation:10005480",
+   "name": "《★楽天1位★》ふわとろ電気毛布 ブランケット掛け 電気毛布 電熱毛布 ブランケット掛け ひざ掛け タイマー付き 掛け敷き 掛け毛布 シングル 敷き毛布 敷き掛け毛布 膝掛け",
+   "price": 11800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p39.ej4ef11d.g00s0p39.ej4eg97b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0900%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/r0900_ai_1.jpg?_ex=200x200",
+   "shop": "atRise（アットライズ）",
+   "review_avg": 4.28,
+   "review_count": 99
+  },
+  {
+   "rank": 7,
+   "code": "eunicedress:10001921",
+   "name": "【先着クーポンで47％OFF】歯ブラシ除菌器 壁掛け 充電式 UV-C除菌 スピード乾燥 T字カミソリ 穴あけ不要 カビ防止 洗面所 衛生 （T）",
+   "price": 4980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sv259.ej4efc09.g00sv259.ej4eg6d8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feunicedress%2Feuni-169%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/eunicedress/cabinet/item4/euni-169.jpg?_ex=200x200",
+   "shop": "京童工房（きょうわらべこうぼう）",
+   "review_avg": 4.34,
+   "review_count": 456
+  },
+  {
+   "rank": 8,
+   "code": "dyson:10001920",
+   "name": "25日01:59まで！ブラックフライデーSALE【特別価格】 ダイソン Dyson Purifier Hot+Cool Gen1 HP10BN 空気清浄ファンヒーター 空気清浄機 扇風機 ブラック/ニッケル ダイソン公式 新品 ヒーター ダイソン空気清浄機 DCモーター dc ダイソンファンヒーター ペット",
+   "price": 39900,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s44m9.ej4ef366.g00s44m9.ej4eg036/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdyson%2F586364-01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/dyson/cabinet/product/10534710/hp10bn_sale_em.jpg?_ex=200x200",
+   "shop": "Dyson公式 楽天市場店",
+   "review_avg": 4.67,
+   "review_count": 124
+  },
+  {
+   "rank": 9,
+   "code": "irobotstore:10000589",
+   "name": "【 期間限定 58%OFF 】 公式 Roomba Plus 575 Combo + AutoWash ルンバ オンライン限定 アイロボット ロボット掃除機 お掃除ロボット 水拭き 床拭き 自動ゴミ収集 高性能 モップ自動洗浄 乾燥機能 小型 iRobot roomba 日本 国内 正規品 メーカー保証 延長保証 送料無料",
+   "price": 69800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00recu9.ej4efc33.g00recu9.ej4egd62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firobotstore%2Fr285060%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/irobotstore/cabinet/03016688/20261119_blackfriday/261119_575c_tm.jpg?_ex=200x200",
+   "shop": "アイロボット公式 楽天市場店",
+   "review_avg": 4.53,
+   "review_count": 262
+  },
+  {
+   "rank": 10,
+   "code": "auc-risecreation:10003276",
+   "name": "【30%OFF★11/20 23:59迄】 強力6枚刃 毛玉取り器 充電式 コードレス 毛玉取り機 電動 2026年モデル 毛玉クリーナー けだまとり 3段階調 1位 毛玉取り 電動 6枚刃 3段階 グレージュ ニット セーター",
+   "price": 3280,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p39.ej4ef11d.g00s0p39.ej4eg97b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0530%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top/r0916_01fb.jpg?_ex=200x200",
+   "shop": "atRise（アットライズ）",
+   "review_avg": 4.38,
+   "review_count": 2103
+  },
+  {
+   "rank": 11,
+   "code": "vesync:10000022",
+   "name": "【11/19 20時～★2,900円クーポン】COSORI DCモーター搭載 ノンフライヤー 6L 大容量 95%オイルカット 最高230℃まで 360°熱風循環 ヘルシー トレーニング 体重管理 大人数向け 家庭用 パーティー 特典レシピ本付き TurboBlaze CAF-DC601 ブラック[メーカー保証2年]",
+   "price": 19980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u8eb9.ej4ef6d8.g00u8eb9.ej4eg4c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0106y%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/10953403/imgrc0092746154.jpg?_ex=200x200",
+   "shop": "Vesync公式　楽天市場店",
+   "review_avg": 4.76,
+   "review_count": 888
+  },
+  {
+   "rank": 12,
+   "code": "exception5251:10000913",
+   "name": "【SNS話題】加湿器 ハイブリッド式 6L 大容量 上部給水 ヒーター除菌 UVライト除菌 38畳対応 最大400ml/h 湿度設定 3段階加湿切替 360°回転 2つの吹出口 静音 12時間タイマー アロマ リモコン付き 省エネ おやすみモード 卓上 オフィス リビング 寝室 ex-h01005",
+   "price": 28680,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00uaej9.ej4ef5f0.g00uaej9.ej4egafd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexception5251%2Fex-h01005%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11219687/main_image/imgrc0116303321.jpg?_ex=200x200",
+   "shop": "EXCEPTION本店",
+   "review_avg": 4.5,
+   "review_count": 22
+  },
+  {
+   "rank": 13,
+   "code": "auc-risecreation:10004620",
+   "name": "【300枚限定★2500円OFFクーポン 11/25 1:59迄】 ＼26-27年最新版♪／ パネルヒーター 足元ヒーター 折りたたみ デスク下 暖房器具 足元 ヒーター リモコン付き こたつ ワイド 省エネ 節電 オフィス 遠赤外線 デスク デスク下ヒーター PSE認証 省エネ 節電 ラウンド 静音",
+   "price": 8980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p39.ej4ef11d.g00s0p39.ej4eg97b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0721%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/y0731_01_a.jpg?_ex=200x200",
+   "shop": "atRise（アットライズ）",
+   "review_avg": 4.5,
+   "review_count": 6763
+  },
+  {
+   "rank": 14,
+   "code": "e-kit:10042595",
+   "name": "【※先着200枚※11/19限定全品半額クーポン】 ＼ 高品質 高コスパ ／ 冷蔵庫 マット 冷蔵庫マット 冷蔵庫下マット クリア 透明 床暖房 キズ 凹み 防止 下敷き ポリカーボネート 洗濯機 SNSで大人気 [S/M/L] [ゼロキーパー]",
+   "price": 3180,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sw2c9.ej4efb96.g00sw2c9.ej4eg275/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kit%2Fek-kbmr01mcl%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kit/cabinet/description/ek-kbmr01mcl/ek-kbmr01_1.jpg?_ex=200x200",
+   "shop": "e-kit（いーきっと）",
+   "review_avg": 4.67,
+   "review_count": 16581
+  },
+  {
+   "rank": 15,
+   "code": "brita:10000161",
+   "name": "【公式・正規品】 ポット型浄水器用カートリッジ マクストラプロ ピュアパフォーマンス 8個セット | 日本仕様 浄水カートリッジ 浄水ポット マ 日本仕様 ブリタカートリッジ brita maxtra アウトレット PFAS (PFOS/PFOA) 除去",
+   "price": 8630,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsu9.ej4efc67.g00tbsu9.ej4ega23/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-8%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-8.jpg?_ex=200x200",
+   "shop": "浄水器のブリタ公式 楽天市場店",
+   "review_avg": 4.78,
+   "review_count": 27136
+  },
+  {
+   "rank": 16,
+   "code": "delonghi:10002657",
+   "name": "【45％OFF】デロンギ マグニフィカS スマート 全自動コーヒーマシン [ECAM25023SB] | デロンギコーヒーメーカー delonghi 公式 コーヒーメーカー 豆から挽く エスプレッソ 全自動 在宅勤務 テレワーク コーヒーマシーン コーヒーマシン 全自動コーヒーメーカー",
+   "price": 69800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t7tc9.ej4efcdd.g00t7tc9.ej4eg37b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132213190%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/ecam25023sb/ecam25023sb_new.jpg?_ex=200x200",
+   "shop": "デロンギ公式　楽天市場店",
+   "review_avg": 4.44,
+   "review_count": 101
+  },
+  {
+   "rank": 17,
+   "code": "dyson:10002092",
+   "name": "25日01:59まで！ブラックフライデーSALE【特別価格】 ダイソン Dyson Cyclone V10 Fluffy 掃除機 コードレス掃除機 dyson SV58 AD-A NKLCPR ダイソン公式 新品 ダイソン掃除機 スティック掃除機 ハンディクリーナー ハンディ掃除機 コードレス サイクロン",
+   "price": 29900,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s44m9.ej4ef366.g00s44m9.ej4eg036/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdyson%2F593813-01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/dyson/cabinet/product/13169084/sv58ad_sale_em.jpg?_ex=200x200",
+   "shop": "Dyson公式 楽天市場店",
+   "review_avg": 4.11,
+   "review_count": 168
+  },
+  {
+   "rank": 18,
+   "code": "ennshopstore:10000062",
+   "name": "【COUPONで2,980円・BL限定】 ファンヒーター セラミックヒーター 1200W 2秒速暖 省エネ ヒーター 足元 オフィス 暖房器具 セラミックファンヒーター 風量3段階 イオン発生 空気清浄器 LCD表示 電気ストーブ タイマー 電気ファンヒーター 電気ヒーター",
+   "price": 6760,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ubfs9.ej4ef1e8.g00ubfs9.ej4eg1bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fennshopstore%2Fbe08w%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/ennshopstore/cabinet/be08w/e08zt_260828x.jpg?_ex=200x200",
+   "shop": "Rakuhome",
+   "review_avg": 4.52,
+   "review_count": 793
+  },
+  {
+   "rank": 19,
+   "code": "superdeal:10008905",
+   "name": "Panasonic メンズシェーバー ラムダッシュPRO 5枚刃 ES-L551U-S チタンシルバー USB-C充電",
+   "price": 29800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t81x9.ej4ef1e7.g00t81x9.ej4egfb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F17412zaq10561%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/12097676/12097686/12522115/imgrc0334939456.jpg?_ex=200x200",
+   "shop": "楽天スーパーDEALSHOP",
+   "review_avg": 5.0,
+   "review_count": 1
+  },
+  {
+   "rank": 20,
+   "code": "ennshopstore:10000061",
+   "name": "【COUPONで3,570円〜・BL限定】 電気毛布 敷き 掛け 65℃速暖 楽天1位 USB/DC給電 1枚7WAY&日本製ヒーター ふわとろ 毛布 バッテリー付き 電気ブランケット 着る ブランケット 電気毛布 USB 3段階調温 電熱毛布 洗える ひざ掛け タイマー 大判サイズ",
+   "price": 7760,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ubfs9.ej4ef1e8.g00ubfs9.ej4eg1bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fennshopstore%2Fbx88pj%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/ennshopstore/cabinet/12171840/x88pj_zt1015.jpg?_ex=200x200",
+   "shop": "Rakuhome",
+   "review_avg": 4.51,
+   "review_count": 3170
+  },
+  {
+   "rank": 21,
+   "code": "shojiki-official:10000000",
+   "name": "＼10%OFFクーポン配布中／高評価★4.55【最高クラスの吸引力】SHOJIKI®正規品【強力吸引x1.8kgの軽量性x自走式】 自立式 コンパクト収納 【急速充電2.5時間x着脱式】 コードレス掃除機 掃除機 軽量 【ダブルサイクロンx吸引持続力99%】 静音 高耐久 SH-J001",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ut1n9.ej4ef838.g00ut1n9.ej4ega94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshojiki-official%2Fsh-j001%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/shojiki-official/cabinet/sh-j001/vacuum_cleaner/main/thumnail_black2.jpg?_ex=200x200",
+   "shop": "掃除機専門店【公式】SHOJIKI",
+   "review_avg": 4.56,
+   "review_count": 1994
+  },
+  {
+   "rank": 22,
+   "code": "azusa:10000193",
+   "name": "クーポンで1点2,751円【楽天1位・美容家監修】 ヘアアイロン ストレート アイロン 立ち上がり18秒 オイル対応 2way 低温 ダメージ低減 6段階温度調節 130℃〜230℃ マイナスイオン コーム付き 耐熱手袋付属 3重髪保護 軽量 ツヤ髪 カラー退色抑制 PSE認証 海外対応",
+   "price": 5980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tyy99.ej4ef2fe.g00tyy99.ej4egc4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazusa%2Fv2396%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/v2396/v2396_main06.jpg?_ex=200x200",
+   "shop": "春夏秋冬",
+   "review_avg": 4.53,
+   "review_count": 992
+  },
+  {
+   "rank": 23,
+   "code": "dyson:10002132",
+   "name": "ブラックフライデーSALE【同時購入で充電スタンドが実質100円/アウトレットSALE】 ダイソン Dyson V12 Detect Slim Fluffy 掃除機 コードレス掃除機 dyson SV46FF2 ダイソン公式 新品 ダイソン掃除機 スティック掃除機 ハンディクリーナー コードレス サイクロン 軽量 強力",
+   "price": 52900,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s44m9.ej4ef366.g00s44m9.ej4eg036/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdyson%2F637631-01%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/dyson/cabinet/product/sv46ff2/sv46ff2_dock_v2.jpg?_ex=200x200",
+   "shop": "Dyson公式 楽天市場店",
+   "review_avg": 4.75,
+   "review_count": 12
+  },
+  {
+   "rank": 24,
+   "code": "auc-risecreation:10005482",
+   "name": "【300枚限定★35％OFFクーポン 11/25 1:59迄】 ★新商品★ 電気毛布 電気毛布 USB 電気ブランケット ブランケット 電気ポンチョ ふわとろ 毛布 USB 3段階調温 温度調節 電気ひざ掛け 電気毛布 掛け 洗える タイマー ひざ掛け 電磁波カット",
+   "price": 7980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p39.ej4ef11d.g00s0p39.ej4eg97b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0901%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top/r0901_01h.jpg?_ex=200x200",
+   "shop": "atRise（アットライズ）",
+   "review_avg": 4.54,
+   "review_count": 26
+  },
+  {
+   "rank": 25,
+   "code": "vesync:10000001",
+   "name": "【11/19 20時～★2,000円クーポン】COSORI ノンフライヤー CAF-L501 4.7L大容量 エアフライヤー 電気フライヤー ノンオイル フライヤー 卓上 LEDディスプレイ タッチパネル タイマー 温度調整 レシピ付き 家庭用 送料無料[メーカー保証2年]",
+   "price": 13980,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00u8eb9.ej4ef6d8.g00u8eb9.ej4eg4c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0062%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=200x200",
+   "shop": "Vesync公式　楽天市場店",
+   "review_avg": 4.68,
+   "review_count": 1293
+  },
+  {
+   "rank": 26,
+   "code": "shark:10000489",
+   "name": "【Ninja 公式】Ninja Crispi クリスピー FN101J FN100J【公式限定レシピ本特典あり】 / シャークニンジャ 電気調理器 電気フライヤー ノンフライヤー エアフライヤー 卓上 家庭用 自動調理器 揚げ物 グリル ロースト ほったらかし 調理家電",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00toap9.ej4ef43b.g00toap9.ej4ega62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Ffn101j%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/fn101j.jpg?_ex=200x200",
+   "shop": "SharkNinja公式楽天市場店",
+   "review_avg": 4.55,
+   "review_count": 174
+  },
+  {
+   "rank": 27,
+   "code": "quads:10000095",
+   "name": "【QUADS公式】[1月上旬~発送] スチーム加湿器 GLASS グラス ガラスポッド式 大容量 2.6L 上部給水 最大17畳 最大加湿650ml/h 抗菌 LEDライト 間接照明 2段階調整 クワッズ公式【メーカー保証付き】",
+   "price": 19800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo69.ej4ef7a3.g00ugo69.ej4ege61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs549%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/26aw/top_tmb/qs649_top_tmb_2.jpg?_ex=200x200",
+   "shop": "QUADS公式楽天市場店",
+   "review_avg": 4.56,
+   "review_count": 555
+  },
+  {
+   "rank": 28,
+   "code": "superdeal:10004392",
+   "name": "【レビュー特典】シャープ 衣類乾燥除湿機 ハイブリッド方式 CV-SH150-W CVSH150W 乾燥容量目安:約4.5人分 プラズマクラスター25000搭載 CV-RH140-Wの後継",
+   "price": 46800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t81x9.ej4ef1e7.g00t81x9.ej4egfb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F13756cvph140w2406%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/12863699/13547311/4550556131353_00.jpg?_ex=200x200",
+   "shop": "楽天スーパーDEALSHOP",
+   "review_avg": 4.64,
+   "review_count": 642
+  },
+  {
+   "rank": 29,
+   "code": "irobotstore:10000588",
+   "name": "【 期間限定 58%OFF + さらにポイント4倍 】 公式 Roomba Plus 415 Combo + AutoWash ルンバ オンライン限定 アイロボット ロボット掃除機 掃除ロボット 水拭き 床拭き モップ自動洗浄 高性能 小型 iRobot roomba 日本 国内 正規品 メーカー保証 延長保証 送料無料",
+   "price": 49800,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00recu9.ej4efc33.g00recu9.ej4egd62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firobotstore%2Fg285060%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/irobotstore/cabinet/03016688/20261119_blackfriday/261119_415c_tm_point.jpg?_ex=200x200",
+   "shop": "アイロボット公式 楽天市場店",
+   "review_avg": 4.62,
+   "review_count": 189
+  },
+  {
+   "rank": 30,
+   "code": "mtgec-beauty:10002142",
+   "name": "2,000円OFFクーポン 11/25迄【軽量ダメージレス】リファ ストレートアイロン プロ STRAIGHT IRON PRO ツヤ髪 海外対応 ヘアアイロン コテ 無料保証 ツヤ 傷みにくい ダメージレス ヘアケア 誕生日 記念日 リファ公式店 楽天総合1位 中学生 クリスマス プレゼント ギフト 女性",
+   "price": 23000,
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00r20g9.ej4ef1fd.g00r20g9.ej4eg6fa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F3891620108%2F&rafcid=wsc_i_ra_3dcfc338-063d-4d85-89ba-1a3a3cd449a7",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/mtgec-beauty/cabinet/refa/06277055/2026_refa_winter/imgrc0146447707.jpg?_ex=200x200",
+   "shop": "MTG ONLINESHOP",
+   "review_avg": 4.6,
+   "review_count": 2292
+  }
+ ]
+}
